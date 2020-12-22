@@ -35,7 +35,7 @@ def json_to_eventlog(file_path):
 
     df = pd.DataFrame({"game":game, "color":color, "move":move, "turn":timestamp_1, "timestamp":timestamp_2})
 
-    df.to_csv(file_path.split(".")[0] + ".csv", sep = ";")
+    df.to_csv(file_path.split(".")[0] + ".csv", sep = ",")
 
     return df
 
