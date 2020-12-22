@@ -4,23 +4,34 @@ import json
 import chess.pgn
 import re
 import traceback
+import tqdm
 
 def get_data(pgn_file):
-    node = chess.pgn.read_game(pgn_file)
+    node = chess.pgn.read_game(pgn_file) # class chess.pgn.game
     while node is not None:
-        data = node.headers
+        data = node.headers # class chess.pgn.header
 
         data["moves"] = []
+        data["clk"] = []
 
         while node.variations:
             next_node = node.variation(0)
             data["moves"].append(
-                    re.sub("\{.*?\}", "", node.board().san(next_node.move)))
+                re.sub("\{.*?\}", "", node.board().san(next_node.move))
+            )
+
+            #pattern = "\d+:\d+:\d+.\d"
+            #m = re.search(pattern, next_node.comment)
+            #print("match: ", m.group())
+            data["clk"].append(
+                next_node.comment.replace('\n',' ')
+            )
             node = next_node
 
         node = chess.pgn.read_game(pgn_file)
 
         out_dict = {}
+
 
         for key in data.keys():
             out_dict[key] = data.get(key)
