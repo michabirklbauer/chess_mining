@@ -1,0 +1,43 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+import json
+import pandas as pd
+import traceback as tb
+
+def json_to_eventlog(file_path):
+
+    with open(file_path, "r", encoding = "utf-8") as f:
+        data = json.load(f)
+        f.close()
+
+    game = []
+    color = []
+    move = []
+    timestamp_1 = []
+    timestamp_2 = []
+
+    game_counter = 1
+
+    for match in data:
+        move_counter = 1
+        for mv in match["moves"]:
+            game.append(game_counter)
+            c = "white"
+            if move_counter % 2 == 0:
+                c = "black"
+            move_counter = move_counter + 1
+            move.append(mv)
+            timestamp_1.append(move_counter-1)
+            timestamp_2.append(match["timestamp"][move_counter-2])
+            color.append(c)
+        game_counter = game_counter + 1
+
+    df = pd.DataFrame({"game":game, "color":color, "move":move, "turn":timestamp_1, "timestamp":timestamp_2})
+
+    df.to_csv(file_path.split(".")[0] + ".csv", sep = ",")
+
+    return df
+
+if __name__ == "__main__":
+    json_to_eventlog("chess_com_games_2020-12-15_2020-12-08.json")
