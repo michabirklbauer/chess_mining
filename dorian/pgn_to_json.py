@@ -3,6 +3,7 @@
 import json
 import chess.pgn
 import re
+import traceback
 
 def get_data(pgn_file):
     node = chess.pgn.read_game(pgn_file)
@@ -41,5 +42,6 @@ def convert_file(file_path):
         json.dump(out_list, json_file)
         json_file.close()
     except Exception as e:
+        traceback.print_exc()   
         print('ERROR file '+file_name+' not converted')
 
