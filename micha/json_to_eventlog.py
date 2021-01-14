@@ -12,6 +12,7 @@ def json_to_eventlog(file_path):
         f.close()
 
     game = []
+    player = []
     color = []
     move = []
     timestamp_1 = []
@@ -23,17 +24,18 @@ def json_to_eventlog(file_path):
         move_counter = 1
         for mv in match["moves"]:
             game.append(game_counter)
-            c = "white"
+            c = "White"
             if move_counter % 2 == 0:
-                c = "black"
+                c = "Black"
             move_counter = move_counter + 1
             move.append(mv)
             timestamp_1.append(move_counter-1)
             timestamp_2.append(match["timestamp"][move_counter-2])
             color.append(c)
+            player.append(match[c])
         game_counter = game_counter + 1
 
-    df = pd.DataFrame({"game":game, "color":color, "move":move, "turn":timestamp_1, "timestamp":timestamp_2})
+    df = pd.DataFrame({"game":game, "player":player, "color":color, "move":move, "turn":timestamp_1, "timestamp":timestamp_2})
 
     df.to_csv(file_path.split(".")[0] + ".csv", sep = ",")
 
