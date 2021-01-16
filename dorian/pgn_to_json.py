@@ -50,4 +50,5 @@ def convert_file(file_path):
 if __name__ == "__main__":
     #convert_file("chess_com_games_2020-12-15_2020-12-08.pgn")
     #convert_file("C54.pgn")
-    convert_file("B10.pgn")
+    #convert_file("B10.pgn")
+    convert_file("chess_com_games_2021-01-16_italian-game.pgn")
