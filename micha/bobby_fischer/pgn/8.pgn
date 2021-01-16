@@ -1,0 +1,583 @@
+[Event "Match \"URS-All World\""]
+[Site "Belgrade (Yugoslavia)"]
+[Date "1970.??.??"]
+[Round "4"]
+[White "Petrosian Tigran V (ARM)"]
+[Black "Fischer Robert J (USA)"]
+[Result "1/2-1/2"]
+[ECO "D90"]
+[WhiteElo "2580"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 g6 2.d4 Nf6 3.Nc3 d5 4.Nf3 Bg7 5.cxd5 Nxd5 6.Bd2 c5 7.Rc1
+Nxc3 8.Bxc3 cxd4 9.Nxd4 O-O 10.e3 Qd5 11.Nb5 Qxd1+ 12.Rxd1 Nc6
+13.Bxg7 Kxg7 14.Be2 Bf5 15.g4 a6 16.Nc3 Be6 17.f4 Rfd8 18.Kf2
+Nb4 19.a3 Nd5 20.Ne4 Nf6 21.Nxf6 exf6 22.Bf3 Rac8 23.Rxd8 Rxd8
+24.Rd1 Rc8 25.Rd2 Rc7 26.h4 h6 27.Kg3 b5 28.Rd6 Rc2 29.b4 Rc3
+30.Rxa6 Bc4 31.f5 g5 32.hxg5 hxg5 33.Kf2 Rc2+ 34.Kg1 Rc1+ 35.Kg2
+Rc2+ 36.Kg3 Rc3 37.Kf2 Rc2+ 38.Ke1 Rc3 39.Ra5 Rxe3+ 40.Kf2 Rd3
+41.Bc6 Kf8 42.Bxb5 Bxb5 43.Rxb5 Rxa3 44.Rd5 Rb3 45.Rd4 Ke7 46.Ke2
+Ra3 47.Kd2 Rb3 48.Kc2 Re3 49.Kb2 Ke8 50.Kc1 Re2 51.Kd1 Ra2 52.Ke1
+Rb2 1/2-1/2
+
+
+[Event "It"]
+[Site "Buenos Aires (Argentina)"]
+[Date "1970.??.??"]
+[Round "2"]
+[White "Damjanovic Mato (CRO)"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "B36"]
+[WhiteElo "2273"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 cxd4 4.Nxd4 Nc6 5.Nc3 g6 6.e4 d6 7.Be2
+Nxd4 8.Qxd4 Bg7 9.Be3 O-O 10.Qd2 Be6 11.f3 Rc8 12.Nd5 Nd7 13.O-O
+Nc5 14.Rac1 a5 15.b3 Bxd5 16.cxd5 Qb6 17.Rc4 Qa7 18.Rc2 Bh6 19.f4
+Rc7 20.g3 b6 21.Rfc1 Bg7 22.Bb5 Qa8 23.Qe2 e5 24.dxe6 fxe6 25.Rd1
+Rd8 26.Bd4 Bxd4+ 27.Rxd4 e5 28.fxe5 dxe5 29.Rxd8+ Qxd8 30.Bc4+
+Kg7 31.Bd5 Nd7 32.Qf2 Rxc2 33.Qxc2 b5 34.Kg2 b4 35.Qc6 Nf6 36.Kf3
+Qd7 37.Qxd7+ Nxd7 38.Ke3 Kf6 39.Kd3 Nb6 40.Bc6 Ke7 41.h4 h6 42.Ke3
+Nc8 43.Kd3 Nd6 44.Ke3 Kd8 45.Kd3 Kc7 46.Ba4 Kb6 47.Ke3 Kc5 48.Bd7
+Kb6 49.Ba4 Kc7 50.Kd3 Kd8 51.Bc6 Ke7 52.Ke3 Ke6 53.Kf3 Kf6 54.g4
+g5 55.h5 Ke7 56.Ke3 Kd8 57.Kd3 Kc7 58.Ba4 Kb6 59.Bd7 Kc5 60.Ba4
+Nc8 61.Be8 Ne7 62.Ke3 Ng8 63.Bd7 Nf6 64.Bf5 Kb5 65.Kd3 a4 66.bxa4+
+Kxa4 67.Kc4 Ka3 68.Kc5 Kxa2 69.Kxb4 Kb2 70.Kc5 Kc3 71.Kd6 Kd4
+72.Ke6 Nxe4 73.Kf7 Nf2 74.Kg6 e4 75.Kxh6 e3 76.Kg7 e2 77.h6 e1Q
+78.h7 0-1
+
+
+[Event "It"]
+[Site "Buenos Aires (Argentina)"]
+[Date "1970.??.??"]
+[Round "5"]
+[White "Quinteros Miguel A (ARG)"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "A35"]
+[WhiteElo "2503"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 g6 2.Nc3 Bg7 3.Nf3 c5 4.d4 cxd4 5.Nxd4 Nc6 6.Nc2 Bxc3+ 7.bxc3
+Nf6 8.f3 d6 9.e4 Be6 10.Be2 Rc8 11.Ne3 Qa5 12.Bd2 Ne5 13.Qb3
+Nfd7 14.f4 Nc5 15.Qc2 Nc6 16.O-O Qa4 17.Qb1 Na5 18.e5 dxe5 19.fxe5
+O-O 20.Rf4 Nd7 21.Nd5 Rfe8 22.Qe4 b5 23.Rxf7 Kxf7 24.Qh4 Kg7
+25.Nxe7 Qc2 26.Qh6+ Kh8 27.Rc1 Qxc1+ 28.Bxc1 Rxe7 29.cxb5 Nc4
+30.Qh4 Rf7 31.Qd4 Kg8 32.Bf4 Rc5 33.Bf3 Rxb5 34.h3 Ncxe5 35.Ba8
+Rf8 36.Bxe5 Nxe5 37.Qxa7 Bd5 38.Bxd5+ Rxd5 39.Qe3 Ra5 40.Qe2
+Rfa8 41.a4 Nf7 42.h4 Rxa4 0-1
+
+
+[Event "It"]
+[Site "Buenos Aires (Argentina)"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Reshevsky Samuel H (USA)"]
+[Black "Fischer Robert J (USA)"]
+[Result "1/2-1/2"]
+[ECO "E43"]
+[WhiteElo "2430"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Bd3 Bb7 6.Nf3 O-O 7.O-O
+Bxc3 8.bxc3 Be4 9.Be2 c5 10.Nd2 Bg6 11.Bf3 Nc6 12.Ba3 Rc8 13.dxc5
+Qe7 14.Nb3 Ne5 15.Be2 Ne4 16.Rc1 Nxc5 17.Bxc5 bxc5 18.f4 Nc6
+19.Bf3 a5 20.e4 f6 21.Qe2 a4 22.Nd2 Rb8 23.Rb1 Qd6 24.g3 e5 25.f5
+Bf7 26.Rfd1 Na5 27.Nf1 Qc7 28.Ne3 Rxb1 29.Rxb1 Rb8 30.Rd1 Qc6
+31.Qd3 Rb7 32.a3 h6 33.Be2 Rb3 34.Kf2 Rxa3 35.Qxd7 Qxd7 36.Rxd7
+Ra2 37.Rd8+ Kh7 38.Rf8 Bg8 39.Ke1 Ra1+ 40.Kf2 Ra2 41.Ke1 1/2-1/2
+
+
+[Event "Blitz"]
+[Site "Herceg Novi (Yugoslavia)"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Hort Vlastimil (GER)"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2510"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 h6 4.Bh4 Bg7 5.Nbd2 g5 6.Bg3 Nh5 7.e4
+d6 8.Bd3 g4 9.Nh4 Bxd4 10.c3 Bf6 11.Nf5 Nxg3 12.fxg3 e6 13.Ne3
+h5 14.O-O Nd7 15.Qe2 Qe7 16.Rae1 Ne5 17.Ndc4 Bd7 18.Na5 b6 19.Nac4
+O-O-O 20.Nxe5 Bxe5 21.Ba6+ Kb8 22.Nc4 Bg7 23.a4 h4 24.a5 hxg3
+25.hxg3 b5 26.Ne3 c6 27.c4 b4 28.c5 Bd4 29.cxd6 Qxd6 30.Rf4 Rh5
+31.Rd1 Bxe3+ 32.Qxe3 Qxd1+ 33.Rf1 Qd6 34.Rc1 c5 0-1
+
+
+[Event "Blitz"]
+[Site "Herceg Novi (Yugoslavia)"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Ivkov Borislav (SCG)"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "E68"]
+[WhiteElo "2428"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.c4 d6 6.d4 Nbd7 7.Nc3
+e5 8.e4 exd4 9.Nxd4 Nc5 10.h3 a5 11.Re1 Re8 12.Bg5 h6 13.Bf4
+Nfd7 14.Qd2 Ne5 15.Bf1 Ne6 16.Nxe6 Nf3+ 17.Kg2 Nxe1+ 18.Rxe1
+Bxe6 19.Bxh6 Bxh6 20.Qxh6 Qf6 21.Qd2 a4 22.f4 Qe7 23.g4 c6 24.Qd4
+f6 25.Rd1 Rad8 26.Nxa4 c5 27.Qd3 Kg7 28.Nc3 Rh8 29.Qd2 Rh4 30.a3
+Rdh8 31.Kg3 f5 32.exf5 Rxh3+ 33.Bxh3 Qh4+ 34.Kf3 Qxh3+ 35.Ke2
+Bxc4+ 36.Kf2 Qh2+ 0-1
+
+
+[Event "Blitz"]
+[Site "Herceg Novi (Yugoslavia)"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Korchnoi Viktor (SUI)"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "E97"]
+[WhiteElo "2608"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O Nc6
+8.d5 Ne7 9.Nd2 c5 10.a3 Ne8 11.b4 b6 12.Rb1 f5 13.f3 f4 14.a4
+g5 15.a5 Rf6 16.bxc5 bxc5 17.Nb3 Rg6 18.Bd2 Nf6 19.Kh1 g4 20.fxg4
+Nxg4 21.Rf3 Rh6 22.h3 Ng6 23.Kg1 Nf6 24.Be1 Nh8 25.Rd3 Nf7 26.Bf3
+Ng5 27.Qe2 Rg6 28.Kf1 Nxh3 29.gxh3 Bxh3+ 30.Kf2 Ng4+ 31.Bxg4
+Bxg4 0-1
+
+
+[Event "Blitz"]
+[Site "Herceg Novi (Yugoslavia)"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Matulovic Milan (SCG)"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "B97"]
+[WhiteElo "2389"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4
+Qb6 8.Qd2 Qxb2 9.Nb3 Qa3 10.Bxf6 gxf6 11.Bd3 Nc6 12.O-O Bg7 13.Rf3
+f5 14.Rg3 Bf6 15.exf5 Qb4 16.Bf1 d5 17.Re1 Ne7 18.fxe6 Bxe6 19.f5
+Nxf5 20.Nxd5 Qxd2 21.Nxf6+ Ke7 22.Nxd2 Nxg3 23.Nd5+ Kf8 24.Nc7
+Nxf1 25.Rxf1 Ke7 26.Nxa8 Rxa8 27.c4 Rd8 28.Rf2 Rd4 29.Re2 Kd6
+30.Ne4+ Kc6 31.c5 Bc4 32.Re3 Bxa2 33.Nd6 b5 34.Ra3 Ra4 35.Rh3
+Kxc5 36.Nb7+ Kc6 37.Nd8+ Kc7 38.Rd3 Bc4 39.Rd4 Ra2 40.h4 a5 41.h5
+a4 42.h6 a3 43.g4 Rb2 44.g5 a2 0-1
+
+
+[Event "Blitz"]
+[Site "Herceg Novi (Yugoslavia)"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Ostojic Predrag (YUG)"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2325"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Ne2 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 Qc7 7.Bd3
+g6 8.f4 Bg7 9.Nf3 O-O 10.O-O Nbd7 11.Kh1 b6 12.Qe1 Bb7 13.Qh4
+Rac8 14.Bd2 e5 15.Rae1 exf4 16.Bxf4 Ne5 17.Bh6 Bxh6 18.Qxh6 Nfg4
+19.Qh4 Nxf3 20.Rxf3 f5 21.Rf4 d5 22.Rxg4 fxg4 23.Qxg4 Rf4 24.Qg3
+dxe4 25.Bxe4 Bxe4 26.Nxe4 Rxe4 0-1
+
+
+[Event "Blitz"]
+[Site "Herceg Novi (Yugoslavia)"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Petrosian Tigran V (ARM)"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "E70"]
+[WhiteElo "2580"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 Nf6 2.Nc3 g6 3.d4 d6 4.e4 Bg7 5.Bd3 c5 6.d5 O-O 7.Nge2 e6
+8.Bg5 h6 9.Bd2 Nbd7 10.b3 exd5 11.cxd5 a6 12.O-O b5 13.f4 c4
+14.bxc4 Nc5 15.Bc2 b4 16.e5 dxe5 17.fxe5 Ng4 18.Na4 Nxa4 19.Bxa4
+Bxe5 20.Bf4 Qb6+ 21.Kh1 Bxa1 22.Qxa1 Nf2+ 23.Rxf2 Qxf2 24.Bxh6
+f6 25.Bxf8 Kxf8 26.Ng1 Bg4 27.Qb1 Kg7 28.h3 Bf5 29.Qxb4 Ra7 30.Bd1
+Qxa2 31.Bf3 a5 32.Qc5 Rb7 33.d6 Rb1 34.d7 Bxd7 35.Qe7+ Kh6 36.Qxd7
+Qf2 37.Kh2 Qxg1+ 38.Kg3 Qe1+ 39.Kh2 Qe5+ 40.g3 Rb2+ 41.Bg2 Qe4
+42.Qd5 Rxg2+ 0-1
+
+
+[Event "Blitz"]
+[Site "Herceg Novi (Yugoslavia)"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Reshevsky Samuel H (USA)"]
+[Black "Fischer Robert J (USA)"]
+[Result "1/2-1/2"]
+[ECO "E94"]
+[WhiteElo "2430"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Be2 d6 6.Nf3 e5 7.Be3 c6
+8.O-O Ng4 9.Bg5 f6 10.Bc1 f5 11.h3 exd4 12.Nxd4 Ne5 13.exf5 gxf5
+14.f4 Qb6 15.Be3 Ng6 16.Nxf5 Qxb2 17.Nxg7 Qxc3 18.Bd4 Qa5 19.Bg4
+Na6 20.Bxc8 Raxc8 21.Qg4 Rc7 22.Ne6 Qf5 23.Nxf8 Qxg4 24.hxg4
+Nxf8 25.f5 c5 26.Bc3 Rd7 27.Rad1 Nc7 28.Rfe1 Kf7 29.Re3 b5 30.Red3
+bxc4 31.Rxd6 Rxd6 32.Rxd6 Nb5 33.Rf6+ Ke7 34.Rc6 Nxc3 35.Rxc5
+Nxa2 36.Rxc4 Nd7 37.Ra4 Nc3 38.Rxa7 Ne4 39.Kh2 Kd6 40.Kh3 Ndf6
+41.Kh4 h6 42.Rg7 Ke5 43.Rg6 Kf4 44.g3+ Kf3 45.Rxh6 Nxg4 46.Rg6
+Nxg3 47.Rxg4 1/2-1/2
+
+
+[Event "Blitz"]
+[Site "Herceg Novi (Yugoslavia)"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "D79"]
+[WhiteElo "2494"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 g6 2.g3 Bg7 3.Bg2 Nf6 4.Nf3 O-O 5.O-O c6 6.d4 d5 7.cxd5
+cxd5 8.Nc3 Ne4 9.Qb3 Nc6 10.Be3 Na5 11.Qd1 Nxc3 12.bxc3 b6 13.Ne5
+Ba6 14.Re1 Rc8 15.Bd2 e6 16.e4 Bb7 17.exd5 Bxd5 18.Bxd5 Qxd5
+19.Qe2 Rfd8 20.Ng4 Nc4 21.Bh6 f5 22.Bxg7 Kxg7 23.Ne3 Nxe3 24.Qxe3
+Rc6 25.Rac1 Rdc8 26.c4 Rxc4 27.Rxc4 Rxc4 28.Qxe6 Qxe6 29.Rxe6
+Kf7 30.Re3 Rxd4 31.Ra3 a5 32.Rc3 Ke6 33.Kg2 Kd6 34.h4 Ra4 35.Rc2
+b5 36.Kf3 b4 37.Ke3 Kd5 38.f3 Ra3+ 39.Kf4 a4 40.g4 fxg4 41.fxg4
+b3 42.axb3 axb3 43.Rc7 Ra4+ 44.Kg5 Rb4 45.Rc1 Kd4 46.Kh6 Rb7 0-1
+
+
+[Event "Blitz"]
+[Site "Herceg Novi (Yugoslavia)"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Tal Mikhail (LAT)"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "B30"]
+[WhiteElo "0"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 e5 4.Bc4 Be7 5.d3 Nf6 6.O-O Nc6 7.Ne1
+O-O 8.f4 a6 9.a4 exf4 10.Bxf4 Be6 11.Bxe6 fxe6 12.Bg3 Qb6 13.Qd2
+Ng4 14.Nf3 Nd4 15.Rab1 Nxf3+ 16.gxf3 Ne5 17.Kg2 Ng6 18.Ne2 Nh4+
+19.Bxh4 Bxh4 20.b4 Qc7 21.bxc5 dxc5 22.a5 Rf6 23.f4 Raf8 24.Rb6
+Bg5 25.e5 Rf5 26.Rxe6 Qf7 27.Rd6 Bxf4 28.Rxf4 Rxf4 29.Nxf4 Qxf4
+30.Qxf4 Rxf4 31.Rd7 Ra4 32.e6 Kf8 33.Rf7+ Ke8 34.Rxg7 Rxa5 35.Rxb7
+Ra2 36.Kf3 Rxc2 37.Rxh7 c4 38.d4 c3 39.d5 Rd2 40.Ke4 c2 41.Rc7
+Kd8 42.Rc4 a5 43.h4 a4 44.Ke5 a3 45.d6 Re2+ 46.Kf5 Rf2+ 47.Kg4
+a2 48.d7 Ke7 49.Rc8 Rd2 50.Re8+ Kf6 51.e7 Rxd7 0-1
+
+
+[Event "Izt"]
+[Site "Palma de Majorca (Spain)"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Reshevsky Samuel H (USA)"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "A32"]
+[WhiteElo "2430"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark "XI-XII"]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 cxd4 4.Nxd4 e6 5.Nc3 Bb4 6.e3 Ne4 7.Qc2
+Nxc3 8.bxc3 Be7 9.Be2 O-O 10.O-O a6 11.f4 d6 12.f5 exf5 13.Nxf5
+Bxf5 14.Qxf5 Nd7 15.Bf3 Qc7 16.Rb1 Rab8 17.Bd5 Nf6 18.Ba3 Rfe8
+19.Qd3 Nxd5 20.cxd5 b5 21.e4 Bf8 22.Rb4 Re5 23.c4 Rbe8 24.cxb5
+axb5 25.Kh1 Qe7 26.Qxb5 Rxe4 27.Rxe4 Qxe4 28.Qd7 Qf4 29.Kg1 Qd4+
+30.Kh1 Qf2 0-1
+
+
+[Event "Izt"]
+[Site "Palma de Majorca (Spain)"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Ujtumen Tudev (MGL)"]
+[Black "Fischer Robert J (USA)"]
+[Result "1/2-1/2"]
+[ECO "B03"]
+[WhiteElo "2405"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark "XI-XII"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 Bf5 6.Nc3 e6 7.Be3 Be7
+8.Nf3 O-O 9.exd6 cxd6 10.b3 d5 11.c5 N6d7 12.Bd3 Bxd3 13.Qxd3
+b6 14.cxb6 Qxb6 15.O-O Qa6 16.Qd1 Nc6 17.Ne5 Ncxe5 18.fxe5 Rac8
+19.Rc1 f6 20.exf6 Nxf6 21.h3 Bb4 22.Na4 Rxc1 23.Bxc1 Ne4 24.Rxf8+
+Bxf8 25.Bf4 Bd6 26.Qg4 Bxf4 27.Qxf4 Qd6 28.Qxd6 Nxd6 29.Nc3 Nf5
+30.Ne2 Ne3 31.Kf2 Nc2 32.Kf3 Kf7 33.Kf4 Kf6 34.h4 h6 35.h5 Ne1
+36.g3 Nc2 37.Kg4 e5 38.dxe5+ Kxe5 39.Kf3 Nb4 40.Nc1 Kd4 41.g4
+a5 42.Ne2+ Ke5 43.Nc1 1/2-1/2
+
+
+[Event "It"]
+[Site "Rovinj/Zagreb (Croatia)"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Fischer Robert J (USA)"]
+[Result "1/2-1/2"]
+[ECO "B26"]
+[WhiteElo "2494"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark "IV-V"]
+
+1.e4 c5 2.Nc3 d6 3.g3 g6 4.Bg2 Bg7 5.d3 Nc6 6.Be3 Rb8 7.Qd2 b5
+8.Nf3 b4 9.Nd1 Bg4 10.h3 Bxf3 11.Bxf3 Nf6 12.Bg2 O-O 13.O-O Re8
+14.Bh6 Bh8 15.Ne3 Nd7 16.Rab1 Rb6 17.Nc4 Ra6 18.a3 Nb6 19.axb4
+cxb4 20.Be3 Nxc4 21.dxc4 Ra2 22.f4 Bxb2 23.e5 Bc3 24.Qd5 Ra6
+25.e6 fxe6 26.Qxe6+ Kh8 27.f5 Nd4 28.Bxd4+ Bxd4+ 29.Kh1 g5 30.Rxb4
+Bf6 31.Rfb1 Rb6 32.Rxb6 axb6 33.Bd5 Rf8 34.Qe3 Qc8 35.g4 Qc5 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Siegen (Germany)"]
+[Date "1970.??.??"]
+[Round "2"]
+[White "Miyasaki Yukio (JPN)"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "2280"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark "IX"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3
+Be7 8.Be2 Be6 9.O-O Nbd7 10.f4 Rc8 11.h3 b5 12.a3 O-O 13.Qe1
+Nb6 14.fxe5 dxe5 15.Qg3 Na4 16.Rad1 Nxc3 17.bxc3 Qc7 18.Bh6 Ne8
+19.Rd3 Kh8 20.Bc1 Bc4 21.Rd2 Nf6 22.Qf3 Qc6 23.Bd3 Bxd3 24.Rxd3
+Nxe4 25.Na5 Qg6 26.Kh2 f5 27.Bb2 Bg5 28.Rfd1 Bf4+ 29.Kh1 Ng3+
+30.Kh2 Nh5+ 0-1
+
+
+[Event "Olympiad"]
+[Site "Siegen (Germany)"]
+[Date "1970.??.??"]
+[Round "18"]
+[White "Portisch Lajos (HUN)"]
+[Black "Fischer Robert J (USA)"]
+[Result "1/2-1/2"]
+[ECO "E45"]
+[WhiteElo "2533"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark "IX"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Nge2 Ba6 6.Ng3 Bxc3+ 7.bxc3
+d5 8.Ba3 dxc4 9.e4 Qd7 10.Be2 Nc6 11.Qc2 O-O-O 12.O-O h5 13.Rfd1
+h4 14.Nf1 Nh5 15.d5 Ne5 16.dxe6 Qe8 17.Rxd8+ Qxd8 18.Bxh5 Rxh5
+19.f4 Nd3 20.exf7 c5 21.Qe2 Rh8 22.e5 Kb8 23.e6 Qf6 24.Re1 Bb5
+25.Bxc5 bxc5 26.Rb1 a6 27.a4 Nxf4 28.Qf3 Nxe6 29.Qxf6 gxf6 30.axb5
+axb5 31.Rxb5+ Kc7 32.Ne3 Rf8 33.Ra5 Kb7 34.Nxc4 Rxf7 35.Rxc5
+Nxc5 36.Nd6+ Kc6 37.Nxf7 Ne4 38.Nh6 Kd5 39.Nf5 h3 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Siegen (Germany)"]
+[Date "1970.??.??"]
+[Round "14"]
+[White "Spassky Boris V (FRA)"]
+[Black "Fischer Robert J (USA)"]
+[Result "1-0"]
+[ECO "D87"]
+[WhiteElo "2548"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark "IX"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4
+c5 8.Ne2 Nc6 9.Be3 O-O 10.O-O Qc7 11.Rc1 Rd8 12.h3 b6 13.f4 e6
+14.Qe1 Na5 15.Bd3 f5 16.g4 fxe4 17.Bxe4 Bb7 18.Ng3 Nc4 19.Bxb7
+Qxb7 20.Bf2 Qc6 21.Qe2 cxd4 22.cxd4 b5 23.Ne4 Bxd4 24.Ng5 Bxf2+
+25.Rxf2 Rd6 26.Re1 Qb6 27.Ne4 Rd4 28.Nf6+ Kh8 29.Qxe6 Rd6 30.Qe4
+Rf8 31.g5 Rd2 32.Ref1 Qc7 33.Rxd2 Nxd2 34.Qd4 Rd8 35.Nd5+ Kg8
+36.Rf2 Nc4 37.Re2 Rd6 38.Re8+ Kf7 39.Rf8+ 1-0
+
+
+[Event "Olympiad"]
+[Site "Siegen (Germany)"]
+[Date "1970.??.??"]
+[Round "9"]
+[White "Uhlmann Wolfgang (GER)"]
+[Black "Fischer Robert J (USA)"]
+[Result "1/2-1/2"]
+[ECO "E74"]
+[WhiteElo "2420"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark "IX"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 h6 7.Be3 c5
+8.d5 e6 9.Qd2 exd5 10.exd5 Kh7 11.h3 Na6 12.Nf3 Bf5 13.Bd3 Qd7
+14.O-O Rfe8 15.Rfe1 Nb4 16.Bxf5 Qxf5 17.a3 Nc2 18.Nh4 Qh5 19.Qxc2
+Qxh4 20.b3 Re5 21.Re2 Nh5 22.Rae1 f5 23.Bd2 Rae8 24.Rxe5 Bxe5
+25.Nb5 a6 26.Nxd6 Bd4 27.Nxe8 Qxf2+ 28.Kh2 Nf4 29.Bxf4 Qxe1 30.Qc1
+Qxe8 31.Bxh6 Qe4 32.Bf4 Kg8 33.Qf1 Kf7 34.h4 b5 35.Bg3 bxc4 36.bxc4
+Bf6 37.Qf4 Qxf4 38.Bxf4 Bxh4 39.Be3 Be7 40.Kg3 g5 41.Kf3 Kf6
+42.Bd2 Bd6 1/2-1/2
+
+
+[Event "Simul, 20b"]
+[Site "Muenster FRG"]
+[Date "1970.09.27"]
+[Round "?"]
+[White "Wilfried Groenegress"]
+[Black "Robert James Fischer"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "B23"]
+[EventDate "????.??.??"]
+[PlyCount "71"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nc3 d6 3. f4 Nc6 4. Nf3 g6 5. Bc4 Bg7 6. O-O Nf6 7. f5 gxf5
+8. d3 O-O 9. Qe1 Na5 10. Bb3 Nxb3 11. axb3 fxe4 12. dxe4 Bg4 13. Qh4 Bh5
+14. Bg5 Bg6 15. Kh1 Re8 16. Rae1 Nd7 17. Nd5 f6 18. Bh6 Bxh6 19. Qxh6 Kh8
+20. Nh4 Rg8 21. Re3 Ne5 22. Rh3 Bxe4 23. Nf4 Rg7 24. Ne6 Qg8 25. Qxg7+ Qxg7
+26. Nxg7 Kxg7 27. Nf5+ Bxf5 28. Rxf5 Rh8 29. Rfh5 h6 30. Rg3+ Kf7 31. Rh4 a5
+32. Rgh3 Kg6 33. Rg3+ Kf5 34. Rg7 h5 35. Rg3 Ng4 36. Rf3+
+0-1
+
+
+[Event "Simul, 20b"]
+[Site "Muenster FRG"]
+[Date "1970.09.27"]
+[Round "?"]
+[White "Michels"]
+[Black "Robert James Fischer"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "B90"]
+[EventDate "????.??.??"]
+[PlyCount "60"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 e6 7. Nb3 Be7
+8. O-O Qc7 9. Qe2 Nbd7 10. Be3 O-O 11. f3 b6 12. Qf2 Bb7 13. Rfd1 Rac8
+14. Rac1 b5 15. a3 Ne5 16. Kh1 Kh8 17. Bb6 Qb8 18. Rd2 Rg8 19. Rcd1 g5
+20. Bd4 Rg6 21. Qf1 Rcg8 22. a4 bxa4 23. Nxa4 Rh6 24. Bxe5 dxe5 25. Nac5 g4
+26. Nxb7 Qxb7 27. Bxa6 Qa7 28. Qd3 gxf3 29. Na5 Ng4 30. gxf3 Qf2
+0-1
+
+
+[Event "Simul, 20b"]
+[Site "Muenster FRG"]
+[Date "1970.09.27"]
+[Round "?"]
+[White "Lothar Tochtrop"]
+[Black "Robert James Fischer"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "B90"]
+[EventDate "????.??.??"]
+[PlyCount "100"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 g6 7. h3 Bg7
+8. Be3 O-O 9. Qd2 Nc6 10. Be2 Bd7 11. Nb3 Rc8 12. O-O Na5 13. Nxa5 Qxa5
+14. Bd3 Rfe8 15. Ne2 Qxd2 16. Bxd2 Bc6 17. f3 d5 18. e5 Nd7 19. f4 f6
+20. exf6 Nxf6 21. f5 gxf5 22. Nd4 e6 23. Nxe6 Rxe6 24. Bxf5 Rce8 25. Bxe6+ Rxe6
+26. Bc3 Ne4 27. Bxg7 Kxg7 28. Rf4 h5 29. b3 Nc3 30. Rf5 Kg6 31. Raf1 Ne2+
+32. Kh2 Nd4 33. Rf8 Nxc2 34. Rg8+ Kh7 35. Rff8 Re7 36. h4 d4 37. Rh8+ Kg6
+38. g4 Re2+ 39. Kh3 hxg4+ 40. Kxg4 Ne3+ 41. Kh3 Bd7+ 42. Kg3 Rg2+ 43. Kf4 Rf2+
+44. Ke4 Rxf8 45. Rxf8 Nf5 46. h5+ Kg5 47. Rxf5+ Bxf5+ 48. Kxd4 Kxh5 49. Kc5 Be4
+50. b4 Kg6
+0-1
+
+
+[Event "Simul, 20b"]
+[Site "Muenster FRG"]
+[Date "1970.09.27"]
+[Round "?"]
+[White "Kraemer"]
+[Black "Robert James Fischer"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "B92"]
+[EventDate "????.??.??"]
+[PlyCount "52"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 a6 4. d4 cxd4 5. Nxd4 Nf6 6. Be2 e5 7. Nf3 Be7
+8. Bg5 Nbd7 9. O-O O-O 10. h3 h6 11. Be3 b5 12. a3 Bb7 13. Bd3 Rc8 14. Nh2 Nc5
+15. Qf3 d5 16. Bxc5 Rxc5 17. Rfe1 Rxc3 18. bxc3 dxe4 19. Rxe4 Qa8 20. Rae1 h5
+21. a4 Rc8 22. Qf5 Nxe4 23. Rxe4 g6 24. Qxe5 Bd6 25. Qd4 Bxh2+ 26. Kxh2 Rc4
+0-1
+
+
+[Event "Simul, 20b"]
+[Site "Muenster FRG"]
+[Date "1970.09.27"]
+[Round "?"]
+[White "C Mueller"]
+[Black "Robert James Fischer"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "A48"]
+[EventDate "????.??.??"]
+[PlyCount "96"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. e3 O-O 5. Nbd2 d6 6. Bc4 h6 7. Bh4 Nbd7
+8. c3 e5 9. Qc2 Kh8 10. O-O-O Qe8 11. dxe5 dxe5 12. e4 Nb6 13. Bg3 Nh5
+14. Rhe1 a5 15. Bf1 Nxg3 16. hxg3 Be6 17. Kb1 a4 18. Be2 Qe7 19. Rh1 Kg8
+20. Nf1 h5 21. Ne3 Ra5 22. Nd2 Qc5 23. g4 hxg4 24. Bxg4 Bxg4 25. Nxg4 Re8
+26. f4 exf4 27. e5 Rxe5 28. Nxe5 Bxe5 29. Ne4 Qe7 30. Qd3 Nd5 31. Qh3 Bg7
+32. Qc8+ Bf8 33. Ng5 Nxc3+ 34. bxc3 Rxg5 35. Rd8 Rh5 36. Rhd1 Rb5+ 37. Ka1 Kg7
+38. Qh3 Qe3 39. Rh1 Qxh3 40. Rxh3 Bd6 41. Rh1 Rg5 42. Rg1 Bc5 43. Rf1 Be3
+44. Rd7 Rxg2 45. Rxc7 b6 46. Rc4 g5 47. Rxa4 g4 48. Re4 g3
+0-1
