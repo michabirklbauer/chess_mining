@@ -1,0 +1,1391 @@
+"game";"player";"color";"move";"turn"
+2;"Fischer Robert J (USA)";"Black";"Nf6";2
+2;"Fischer Robert J (USA)";"Black";"g6";4
+2;"Fischer Robert J (USA)";"Black";"Bg7";6
+2;"Fischer Robert J (USA)";"Black";"d6";8
+2;"Fischer Robert J (USA)";"Black";"c5";10
+2;"Fischer Robert J (USA)";"Black";"dxc5";12
+2;"Fischer Robert J (USA)";"Black";"Kxd8";14
+2;"Fischer Robert J (USA)";"Black";"Nfd7";16
+2;"Fischer Robert J (USA)";"Black";"b6";18
+2;"Fischer Robert J (USA)";"Black";"Na6";20
+3;"Fischer Robert J (USA)";"Black";"d5";2
+3;"Fischer Robert J (USA)";"Black";"dxc4";4
+3;"Fischer Robert J (USA)";"Black";"Nf6";6
+3;"Fischer Robert J (USA)";"Black";"e6";8
+3;"Fischer Robert J (USA)";"Black";"c5";10
+3;"Fischer Robert J (USA)";"Black";"a6";12
+3;"Fischer Robert J (USA)";"Black";"Qxd1";14
+3;"Fischer Robert J (USA)";"Black";"Bxc5";16
+3;"Fischer Robert J (USA)";"Black";"Nbd7";18
+3;"Fischer Robert J (USA)";"Black";"b6";20
+4;"Fischer Robert J (USA)";"Black";"d5";2
+4;"Fischer Robert J (USA)";"Black";"dxc4";4
+4;"Fischer Robert J (USA)";"Black";"Nf6";6
+4;"Fischer Robert J (USA)";"Black";"e6";8
+4;"Fischer Robert J (USA)";"Black";"c5";10
+4;"Fischer Robert J (USA)";"Black";"a6";12
+4;"Fischer Robert J (USA)";"Black";"Qxd1";14
+4;"Fischer Robert J (USA)";"Black";"Bxc5";16
+4;"Fischer Robert J (USA)";"Black";"Nbd7";18
+4;"Fischer Robert J (USA)";"Black";"b5";20
+5;"Fischer Robert J (USA)";"Black";"Nf6";2
+5;"Fischer Robert J (USA)";"Black";"g6";4
+5;"Fischer Robert J (USA)";"Black";"Bg7";6
+5;"Fischer Robert J (USA)";"Black";"d6";8
+5;"Fischer Robert J (USA)";"Black";"O-O";10
+5;"Fischer Robert J (USA)";"Black";"Nc6";12
+5;"Fischer Robert J (USA)";"Black";"a6";14
+5;"Fischer Robert J (USA)";"Black";"Rb8";16
+5;"Fischer Robert J (USA)";"Black";"h5";18
+5;"Fischer Robert J (USA)";"Black";"e5";20
+6;"Fischer Robert J (USA)";"Black";"Nf6";2
+6;"Fischer Robert J (USA)";"Black";"e6";4
+6;"Fischer Robert J (USA)";"Black";"Bb4";6
+6;"Fischer Robert J (USA)";"Black";"d5";8
+6;"Fischer Robert J (USA)";"Black";"exd5";10
+6;"Fischer Robert J (USA)";"Black";"h6";12
+6;"Fischer Robert J (USA)";"Black";"c5";14
+6;"Fischer Robert J (USA)";"Black";"Nc6";16
+6;"Fischer Robert J (USA)";"Black";"g5";18
+6;"Fischer Robert J (USA)";"Black";"Qa5";20
+7;"Fischer Robert J (USA)";"Black";"Nf6";2
+7;"Fischer Robert J (USA)";"Black";"g6";4
+7;"Fischer Robert J (USA)";"Black";"Bg7";6
+7;"Fischer Robert J (USA)";"Black";"d6";8
+7;"Fischer Robert J (USA)";"Black";"O-O";10
+7;"Fischer Robert J (USA)";"Black";"Nc6";12
+7;"Fischer Robert J (USA)";"Black";"a6";14
+7;"Fischer Robert J (USA)";"Black";"h5";16
+7;"Fischer Robert J (USA)";"Black";"e5";18
+7;"Fischer Robert J (USA)";"Black";"Ne7";20
+8;"Fischer Robert J (USA)";"Black";"d5";2
+8;"Fischer Robert J (USA)";"Black";"dxc4";4
+8;"Fischer Robert J (USA)";"Black";"Nf6";6
+8;"Fischer Robert J (USA)";"Black";"e6";8
+8;"Fischer Robert J (USA)";"Black";"c5";10
+8;"Fischer Robert J (USA)";"Black";"a6";12
+8;"Fischer Robert J (USA)";"Black";"Qxd1";14
+8;"Fischer Robert J (USA)";"Black";"Bxc5";16
+8;"Fischer Robert J (USA)";"Black";"b5";18
+8;"Fischer Robert J (USA)";"Black";"Bb7";20
+9;"Fischer Robert J (USA)";"Black";"Nf6";2
+9;"Fischer Robert J (USA)";"Black";"c5";4
+9;"Fischer Robert J (USA)";"Black";"d6";6
+9;"Fischer Robert J (USA)";"Black";"g6";8
+9;"Fischer Robert J (USA)";"Black";"Bg7";10
+9;"Fischer Robert J (USA)";"Black";"h6";12
+9;"Fischer Robert J (USA)";"Black";"g5";14
+9;"Fischer Robert J (USA)";"Black";"Qa5";16
+9;"Fischer Robert J (USA)";"Black";"Nxe4";18
+9;"Fischer Robert J (USA)";"Black";"Bxc3+";20
+10;"Fischer Robert J (USA)";"Black";"d5";2
+10;"Fischer Robert J (USA)";"Black";"dxc4";4
+10;"Fischer Robert J (USA)";"Black";"a6";6
+10;"Fischer Robert J (USA)";"Black";"Nf6";8
+10;"Fischer Robert J (USA)";"Black";"e6";10
+10;"Fischer Robert J (USA)";"Black";"c5";12
+10;"Fischer Robert J (USA)";"Black";"Qxd1";14
+10;"Fischer Robert J (USA)";"Black";"Bxc5";16
+10;"Fischer Robert J (USA)";"Black";"O-O";18
+10;"Fischer Robert J (USA)";"Black";"b5";20
+13;"Fischer Robert J (USA)";"Black";"c5";2
+13;"Fischer Robert J (USA)";"Black";"g6";4
+13;"Fischer Robert J (USA)";"Black";"Bg7";6
+13;"Fischer Robert J (USA)";"Black";"cxd4";8
+13;"Fischer Robert J (USA)";"Black";"Nc6";10
+13;"Fischer Robert J (USA)";"Black";"Nf6";12
+13;"Fischer Robert J (USA)";"Black";"bxc6";14
+13;"Fischer Robert J (USA)";"Black";"Ng8";16
+13;"Fischer Robert J (USA)";"Black";"f6";18
+13;"Fischer Robert J (USA)";"Black";"Nxf6";20
+14;"Fischer Robert J (USA)";"Black";"c5";2
+14;"Fischer Robert J (USA)";"Black";"d6";4
+14;"Fischer Robert J (USA)";"Black";"cxd4";6
+14;"Fischer Robert J (USA)";"Black";"Nf6";8
+14;"Fischer Robert J (USA)";"Black";"a6";10
+14;"Fischer Robert J (USA)";"Black";"e5";12
+14;"Fischer Robert J (USA)";"Black";"Be7";14
+14;"Fischer Robert J (USA)";"Black";"O-O";16
+14;"Fischer Robert J (USA)";"Black";"Be6";18
+14;"Fischer Robert J (USA)";"Black";"Nbd7";20
+37;"Fischer Robert J (USA)";"Black";"Nf6";2
+37;"Fischer Robert J (USA)";"Black";"e6";4
+37;"Fischer Robert J (USA)";"Black";"d5";6
+37;"Fischer Robert J (USA)";"Black";"c5";8
+37;"Fischer Robert J (USA)";"Black";"Nc6";10
+37;"Fischer Robert J (USA)";"Black";"Ne4";12
+37;"Fischer Robert J (USA)";"Black";"Nxc3";14
+37;"Fischer Robert J (USA)";"Black";"Be7";16
+37;"Fischer Robert J (USA)";"Black";"O-O";18
+37;"Fischer Robert J (USA)";"Black";"h6";20
+48;"Fischer Robert J (USA)";"Black";"Nf6";2
+48;"Fischer Robert J (USA)";"Black";"e6";4
+48;"Fischer Robert J (USA)";"Black";"d5";6
+48;"Fischer Robert J (USA)";"Black";"Bb4";8
+48;"Fischer Robert J (USA)";"Black";"O-O";10
+48;"Fischer Robert J (USA)";"Black";"c5";12
+48;"Fischer Robert J (USA)";"Black";"Nc6";14
+48;"Fischer Robert J (USA)";"Black";"Ba5";16
+48;"Fischer Robert J (USA)";"Black";"dxc4";18
+48;"Fischer Robert J (USA)";"Black";"Bb6";20
+49;"Fischer Robert J (USA)";"Black";"Nf6";2
+49;"Fischer Robert J (USA)";"Black";"e6";4
+49;"Fischer Robert J (USA)";"Black";"c5";6
+49;"Fischer Robert J (USA)";"Black";"exd5";8
+49;"Fischer Robert J (USA)";"Black";"d6";10
+49;"Fischer Robert J (USA)";"Black";"g6";12
+49;"Fischer Robert J (USA)";"Black";"Nbd7";14
+49;"Fischer Robert J (USA)";"Black";"Bg7";16
+49;"Fischer Robert J (USA)";"Black";"O-O";18
+49;"Fischer Robert J (USA)";"Black";"Re8";20
+50;"Fischer Robert J (USA)";"Black";"Nf6";2
+50;"Fischer Robert J (USA)";"Black";"e6";4
+50;"Fischer Robert J (USA)";"Black";"Bb4";6
+50;"Fischer Robert J (USA)";"Black";"c5";8
+50;"Fischer Robert J (USA)";"Black";"Nc6";10
+50;"Fischer Robert J (USA)";"Black";"Bxc3+";12
+50;"Fischer Robert J (USA)";"Black";"d6";14
+50;"Fischer Robert J (USA)";"Black";"e5";16
+50;"Fischer Robert J (USA)";"Black";"Ne7";18
+50;"Fischer Robert J (USA)";"Black";"h6";20
+51;"Fischer Robert J (USA)";"Black";"c5";2
+51;"Fischer Robert J (USA)";"Black";"d6";4
+51;"Fischer Robert J (USA)";"Black";"cxd4";6
+51;"Fischer Robert J (USA)";"Black";"Nf6";8
+51;"Fischer Robert J (USA)";"Black";"a6";10
+51;"Fischer Robert J (USA)";"Black";"e6";12
+51;"Fischer Robert J (USA)";"Black";"Qb6";14
+51;"Fischer Robert J (USA)";"Black";"Qxb2";16
+51;"Fischer Robert J (USA)";"Black";"Qa3";18
+51;"Fischer Robert J (USA)";"Black";"Be7";20
+52;"Fischer Robert J (USA)";"Black";"Nf6";2
+52;"Fischer Robert J (USA)";"Black";"e6";4
+52;"Fischer Robert J (USA)";"Black";"d5";6
+52;"Fischer Robert J (USA)";"Black";"c5";8
+52;"Fischer Robert J (USA)";"Black";"Nxd5";10
+52;"Fischer Robert J (USA)";"Black";"Nxc3";12
+52;"Fischer Robert J (USA)";"Black";"cxd4";14
+52;"Fischer Robert J (USA)";"Black";"Nc6";16
+52;"Fischer Robert J (USA)";"Black";"b5";18
+52;"Fischer Robert J (USA)";"Black";"Bb4+";20
+53;"Fischer Robert J (USA)";"Black";"c5";2
+53;"Fischer Robert J (USA)";"Black";"d6";4
+53;"Fischer Robert J (USA)";"Black";"cxd4";6
+53;"Fischer Robert J (USA)";"Black";"Nf6";8
+53;"Fischer Robert J (USA)";"Black";"a6";10
+53;"Fischer Robert J (USA)";"Black";"e6";12
+53;"Fischer Robert J (USA)";"Black";"Qb6";14
+53;"Fischer Robert J (USA)";"Black";"Qxb2";16
+53;"Fischer Robert J (USA)";"Black";"Qa3";18
+53;"Fischer Robert J (USA)";"Black";"gxf6";20
+54;"Fischer Robert J (USA)";"Black";"Nf6";2
+54;"Fischer Robert J (USA)";"Black";"Nd5";4
+54;"Fischer Robert J (USA)";"Black";"d6";6
+54;"Fischer Robert J (USA)";"Black";"g6";8
+54;"Fischer Robert J (USA)";"Black";"Nb6";10
+54;"Fischer Robert J (USA)";"Black";"Bg7";12
+54;"Fischer Robert J (USA)";"Black";"O-O";14
+54;"Fischer Robert J (USA)";"Black";"a5";16
+54;"Fischer Robert J (USA)";"Black";"dxe5";18
+54;"Fischer Robert J (USA)";"Black";"Na6";20
+55;"Fischer Robert J (USA)";"Black";"c5";2
+55;"Fischer Robert J (USA)";"Black";"d6";4
+55;"Fischer Robert J (USA)";"Black";"cxd4";6
+55;"Fischer Robert J (USA)";"Black";"Nf6";8
+55;"Fischer Robert J (USA)";"Black";"a6";10
+55;"Fischer Robert J (USA)";"Black";"e6";12
+55;"Fischer Robert J (USA)";"Black";"Be7";14
+55;"Fischer Robert J (USA)";"Black";"Qc7";16
+55;"Fischer Robert J (USA)";"Black";"Nbd7";18
+55;"Fischer Robert J (USA)";"Black";"b5";20
+56;"Fischer Robert J (USA)";"Black";"Nf6";2
+56;"Fischer Robert J (USA)";"Black";"Nd5";4
+56;"Fischer Robert J (USA)";"Black";"d6";6
+56;"Fischer Robert J (USA)";"Black";"Bg4";8
+56;"Fischer Robert J (USA)";"Black";"e6";10
+56;"Fischer Robert J (USA)";"Black";"Be7";12
+56;"Fischer Robert J (USA)";"Black";"Bh5";14
+56;"Fischer Robert J (USA)";"Black";"Nb6";16
+56;"Fischer Robert J (USA)";"Black";"O-O";18
+56;"Fischer Robert J (USA)";"Black";"d5";20
+57;"Fischer Robert J (USA)";"Black";"c5";2
+57;"Fischer Robert J (USA)";"Black";"e6";4
+57;"Fischer Robert J (USA)";"Black";"cxd4";6
+57;"Fischer Robert J (USA)";"Black";"a6";8
+57;"Fischer Robert J (USA)";"Black";"Nc6";10
+57;"Fischer Robert J (USA)";"Black";"Nf6";12
+57;"Fischer Robert J (USA)";"Black";"d5";14
+57;"Fischer Robert J (USA)";"Black";"exd5";16
+57;"Fischer Robert J (USA)";"Black";"Bd6";18
+57;"Fischer Robert J (USA)";"Black";"bxc6";20
+58;"Robert James Fischer";"Black";"Nf6";2
+58;"Robert James Fischer";"Black";"e6";4
+58;"Robert James Fischer";"Black";"d5";6
+58;"Robert James Fischer";"Black";"c5";8
+58;"Robert James Fischer";"Black";"Nxd5";10
+58;"Robert James Fischer";"Black";"Nxc3";12
+58;"Robert James Fischer";"Black";"cxd4";14
+58;"Robert James Fischer";"Black";"Nc6";16
+58;"Robert James Fischer";"Black";"b5";18
+58;"Robert James Fischer";"Black";"Bb4+";20
+59;"Robert James Fischer";"Black";"d6";2
+59;"Robert James Fischer";"Black";"g6";4
+59;"Robert James Fischer";"Black";"Nf6";6
+59;"Robert James Fischer";"Black";"Bg7";8
+59;"Robert James Fischer";"Black";"c5";10
+59;"Robert James Fischer";"Black";"Qa5";12
+59;"Robert James Fischer";"Black";"Qxc5";14
+59;"Robert James Fischer";"Black";"O-O";16
+59;"Robert James Fischer";"Black";"Qa5";18
+59;"Robert James Fischer";"Black";"Bg4";20
+60;"Robert James Fischer";"Black";"c5";2
+60;"Robert James Fischer";"Black";"Nf6";4
+60;"Robert James Fischer";"Black";"Nd5";6
+60;"Robert James Fischer";"Black";"cxd4";8
+60;"Robert James Fischer";"Black";"d6";10
+60;"Robert James Fischer";"Black";"Nc6";12
+60;"Robert James Fischer";"Black";"e6";14
+60;"Robert James Fischer";"Black";"Be7";16
+60;"Robert James Fischer";"Black";"Nxc3";18
+60;"Robert James Fischer";"Black";"O-O";20
+62;"Fischer Robert J (USA)";"Black";"c5";2
+62;"Fischer Robert J (USA)";"Black";"g6";4
+62;"Fischer Robert J (USA)";"Black";"cxd4";6
+62;"Fischer Robert J (USA)";"Black";"Nc6";8
+62;"Fischer Robert J (USA)";"Black";"Nf6";10
+62;"Fischer Robert J (USA)";"Black";"d6";12
+62;"Fischer Robert J (USA)";"Black";"Nxd4";14
+62;"Fischer Robert J (USA)";"Black";"Bg7";16
+62;"Fischer Robert J (USA)";"Black";"O-O";18
+62;"Fischer Robert J (USA)";"Black";"Qa5";20
+63;"Fischer Robert J (USA)";"Black";"c5";2
+63;"Fischer Robert J (USA)";"Black";"d5";4
+63;"Fischer Robert J (USA)";"Black";"f6";6
+63;"Fischer Robert J (USA)";"Black";"d4";8
+63;"Fischer Robert J (USA)";"Black";"e5";10
+63;"Fischer Robert J (USA)";"Black";"Ne7";12
+63;"Fischer Robert J (USA)";"Black";"Nec6";14
+63;"Fischer Robert J (USA)";"Black";"Be7";16
+63;"Fischer Robert J (USA)";"Black";"O-O";18
+63;"Fischer Robert J (USA)";"Black";"a6";20
+64;"Fischer Robert J (USA)";"Black";"Nf6";2
+64;"Fischer Robert J (USA)";"Black";"e6";4
+64;"Fischer Robert J (USA)";"Black";"d5";6
+64;"Fischer Robert J (USA)";"Black";"c5";8
+64;"Fischer Robert J (USA)";"Black";"Nc6";10
+64;"Fischer Robert J (USA)";"Black";"Ne4";12
+64;"Fischer Robert J (USA)";"Black";"Nxc3";14
+64;"Fischer Robert J (USA)";"Black";"Be7";16
+64;"Fischer Robert J (USA)";"Black";"O-O";18
+64;"Fischer Robert J (USA)";"Black";"h6";20
+65;"Fischer Robert J (USA)";"Black";"c5";2
+65;"Fischer Robert J (USA)";"Black";"g6";4
+65;"Fischer Robert J (USA)";"Black";"cxd4";6
+65;"Fischer Robert J (USA)";"Black";"Nc6";8
+65;"Fischer Robert J (USA)";"Black";"Nf6";10
+65;"Fischer Robert J (USA)";"Black";"d6";12
+65;"Fischer Robert J (USA)";"Black";"Nxd4";14
+65;"Fischer Robert J (USA)";"Black";"Bg7";16
+65;"Fischer Robert J (USA)";"Black";"h6";18
+65;"Fischer Robert J (USA)";"Black";"O-O";20
+66;"Fischer Robert J (USA)";"Black";"g6";2
+66;"Fischer Robert J (USA)";"Black";"Bg7";4
+66;"Fischer Robert J (USA)";"Black";"Nf6";6
+66;"Fischer Robert J (USA)";"Black";"O-O";8
+66;"Fischer Robert J (USA)";"Black";"d6";10
+66;"Fischer Robert J (USA)";"Black";"e5";12
+66;"Fischer Robert J (USA)";"Black";"Nc6";14
+66;"Fischer Robert J (USA)";"Black";"Ne7";16
+66;"Fischer Robert J (USA)";"Black";"c5";18
+66;"Fischer Robert J (USA)";"Black";"Ne8";20
+68;"Fischer Robert J (USA)";"Black";"c5";2
+68;"Fischer Robert J (USA)";"Black";"d6";4
+68;"Fischer Robert J (USA)";"Black";"cxd4";6
+68;"Fischer Robert J (USA)";"Black";"Nf6";8
+68;"Fischer Robert J (USA)";"Black";"a6";10
+68;"Fischer Robert J (USA)";"Black";"e5";12
+68;"Fischer Robert J (USA)";"Black";"Be7";14
+68;"Fischer Robert J (USA)";"Black";"O-O";16
+68;"Fischer Robert J (USA)";"Black";"Be6";18
+68;"Fischer Robert J (USA)";"Black";"Nbd7";20
+69;"Fischer Robert J (USA)";"Black";"g6";2
+69;"Fischer Robert J (USA)";"Black";"Bg7";4
+69;"Fischer Robert J (USA)";"Black";"Nf6";6
+69;"Fischer Robert J (USA)";"Black";"d5";8
+69;"Fischer Robert J (USA)";"Black";"O-O";10
+69;"Fischer Robert J (USA)";"Black";"c6";12
+69;"Fischer Robert J (USA)";"Black";"Bg4";14
+69;"Fischer Robert J (USA)";"Black";"b6";16
+69;"Fischer Robert J (USA)";"Black";"dxc4";18
+69;"Fischer Robert J (USA)";"Black";"b5";20
+70;"Fischer Robert J (USA)";"Black";"c5";2
+70;"Fischer Robert J (USA)";"Black";"d6";4
+70;"Fischer Robert J (USA)";"Black";"cxd4";6
+70;"Fischer Robert J (USA)";"Black";"Nf6";8
+70;"Fischer Robert J (USA)";"Black";"a6";10
+70;"Fischer Robert J (USA)";"Black";"e5";12
+70;"Fischer Robert J (USA)";"Black";"Be7";14
+70;"Fischer Robert J (USA)";"Black";"O-O";16
+70;"Fischer Robert J (USA)";"Black";"Qc7";18
+70;"Fischer Robert J (USA)";"Black";"Be6";20
+71;"Fischer Robert J (USA)";"Black";"g6";2
+71;"Fischer Robert J (USA)";"Black";"c5";4
+71;"Fischer Robert J (USA)";"Black";"Bg7";6
+71;"Fischer Robert J (USA)";"Black";"cxd4";8
+71;"Fischer Robert J (USA)";"Black";"Nc6";10
+71;"Fischer Robert J (USA)";"Black";"d6";12
+71;"Fischer Robert J (USA)";"Black";"Nf6";14
+71;"Fischer Robert J (USA)";"Black";"O-O";16
+71;"Fischer Robert J (USA)";"Black";"Bd7";18
+71;"Fischer Robert J (USA)";"Black";"a6";20
+73;"Fischer Robert J (USA)";"Black";"Nf6";2
+73;"Fischer Robert J (USA)";"Black";"g6";4
+73;"Fischer Robert J (USA)";"Black";"Bg7";6
+73;"Fischer Robert J (USA)";"Black";"d6";8
+73;"Fischer Robert J (USA)";"Black";"O-O";10
+73;"Fischer Robert J (USA)";"Black";"e5";12
+73;"Fischer Robert J (USA)";"Black";"Nc6";14
+73;"Fischer Robert J (USA)";"Black";"Ne7";16
+73;"Fischer Robert J (USA)";"Black";"Ne8";18
+73;"Fischer Robert J (USA)";"Black";"f5";20
+74;"Fischer Robert J (USA)";"Black";"Nf6";2
+74;"Fischer Robert J (USA)";"Black";"g6";4
+74;"Fischer Robert J (USA)";"Black";"Bg7";6
+74;"Fischer Robert J (USA)";"Black";"d6";8
+74;"Fischer Robert J (USA)";"Black";"O-O";10
+74;"Fischer Robert J (USA)";"Black";"e5";12
+74;"Fischer Robert J (USA)";"Black";"Nc6";14
+74;"Fischer Robert J (USA)";"Black";"Ne7";16
+74;"Fischer Robert J (USA)";"Black";"Ne8";18
+74;"Fischer Robert J (USA)";"Black";"f5";20
+75;"Fischer Robert J (USA)";"Black";"Nf6";2
+75;"Fischer Robert J (USA)";"Black";"g6";4
+75;"Fischer Robert J (USA)";"Black";"d5";6
+75;"Fischer Robert J (USA)";"Black";"Ne4";8
+75;"Fischer Robert J (USA)";"Black";"Nxc3";10
+75;"Fischer Robert J (USA)";"Black";"dxc4";12
+75;"Fischer Robert J (USA)";"Black";"Be6";14
+75;"Fischer Robert J (USA)";"Black";"b6";16
+75;"Fischer Robert J (USA)";"Black";"Bh6";18
+75;"Fischer Robert J (USA)";"Black";"c6";20
+76;"Robert James Fischer";"Black";"Nf6";2
+76;"Robert James Fischer";"Black";"g6";4
+76;"Robert James Fischer";"Black";"Bg7";6
+76;"Robert James Fischer";"Black";"d6";8
+76;"Robert James Fischer";"Black";"O-O";10
+76;"Robert James Fischer";"Black";"e5";12
+76;"Robert James Fischer";"Black";"Nc6";14
+76;"Robert James Fischer";"Black";"Ne7";16
+76;"Robert James Fischer";"Black";"Ne8";18
+76;"Robert James Fischer";"Black";"f5";20
+77;"Robert James Fischer";"Black";"Nf6";2
+77;"Robert James Fischer";"Black";"g6";4
+77;"Robert James Fischer";"Black";"Bg7";6
+77;"Robert James Fischer";"Black";"d6";8
+77;"Robert James Fischer";"Black";"O-O";10
+77;"Robert James Fischer";"Black";"e5";12
+77;"Robert James Fischer";"Black";"Nc6";14
+77;"Robert James Fischer";"Black";"Ne7";16
+77;"Robert James Fischer";"Black";"Ne8";18
+77;"Robert James Fischer";"Black";"f5";20
+82;"Robert James Fischer";"Black";"c5";2
+82;"Robert James Fischer";"Black";"Nf6";4
+82;"Robert James Fischer";"Black";"Nd5";6
+82;"Robert James Fischer";"Black";"cxd4";8
+82;"Robert James Fischer";"Black";"d6";10
+82;"Robert James Fischer";"Black";"Nc6";12
+82;"Robert James Fischer";"Black";"e6";14
+82;"Robert James Fischer";"Black";"Be7";16
+82;"Robert James Fischer";"Black";"Nxc3";18
+82;"Robert James Fischer";"Black";"O-O";20
+87;"Fischer Robert J (USA)";"Black";"g6";2
+87;"Fischer Robert J (USA)";"Black";"Bg7";4
+87;"Fischer Robert J (USA)";"Black";"Nf6";6
+87;"Fischer Robert J (USA)";"Black";"O-O";8
+87;"Fischer Robert J (USA)";"Black";"c6";10
+87;"Fischer Robert J (USA)";"Black";"d5";12
+87;"Fischer Robert J (USA)";"Black";"cxd5";14
+87;"Fischer Robert J (USA)";"Black";"Ne4";16
+87;"Fischer Robert J (USA)";"Black";"Nc6";18
+87;"Fischer Robert J (USA)";"Black";"Na5";20
+88;"Fischer Robert J (USA)";"Black";"Nf6";2
+88;"Fischer Robert J (USA)";"Black";"Nd5";4
+88;"Fischer Robert J (USA)";"Black";"d6";6
+88;"Fischer Robert J (USA)";"Black";"Nb6";8
+88;"Fischer Robert J (USA)";"Black";"Bf5";10
+88;"Fischer Robert J (USA)";"Black";"e6";12
+88;"Fischer Robert J (USA)";"Black";"Be7";14
+88;"Fischer Robert J (USA)";"Black";"O-O";16
+88;"Fischer Robert J (USA)";"Black";"cxd6";18
+88;"Fischer Robert J (USA)";"Black";"d5";20
+99;"Fischer Robert J (USA)";"Black";"c5";2
+99;"Fischer Robert J (USA)";"Black";"g6";4
+99;"Fischer Robert J (USA)";"Black";"cxd4";6
+99;"Fischer Robert J (USA)";"Black";"Nc6";8
+99;"Fischer Robert J (USA)";"Black";"Nf6";10
+99;"Fischer Robert J (USA)";"Black";"d6";12
+99;"Fischer Robert J (USA)";"Black";"Nxd4";14
+99;"Fischer Robert J (USA)";"Black";"Bg7";16
+99;"Fischer Robert J (USA)";"Black";"h6";18
+99;"Fischer Robert J (USA)";"Black";"O-O";20
+100;"Fischer Robert J (USA)";"Black";"g6";2
+100;"Fischer Robert J (USA)";"Black";"Bg7";4
+100;"Fischer Robert J (USA)";"Black";"Nf6";6
+100;"Fischer Robert J (USA)";"Black";"O-O";8
+100;"Fischer Robert J (USA)";"Black";"d6";10
+100;"Fischer Robert J (USA)";"Black";"e5";12
+100;"Fischer Robert J (USA)";"Black";"Nc6";14
+100;"Fischer Robert J (USA)";"Black";"Ne7";16
+100;"Fischer Robert J (USA)";"Black";"c5";18
+100;"Fischer Robert J (USA)";"Black";"Ne8";20
+105;"Fischer Robert J (USA)";"Black";"Nf6";2
+105;"Fischer Robert J (USA)";"Black";"g6";4
+105;"Fischer Robert J (USA)";"Black";"d5";6
+105;"Fischer Robert J (USA)";"Black";"Ne4";8
+105;"Fischer Robert J (USA)";"Black";"Nxc3";10
+105;"Fischer Robert J (USA)";"Black";"dxc4";12
+105;"Fischer Robert J (USA)";"Black";"Be6";14
+105;"Fischer Robert J (USA)";"Black";"b6";16
+105;"Fischer Robert J (USA)";"Black";"Bh6";18
+105;"Fischer Robert J (USA)";"Black";"c6";20
+107;"Robert James Fischer";"Black";"Nf6";2
+107;"Robert James Fischer";"Black";"g6";4
+107;"Robert James Fischer";"Black";"Bg7";6
+107;"Robert James Fischer";"Black";"d6";8
+107;"Robert James Fischer";"Black";"O-O";10
+107;"Robert James Fischer";"Black";"e5";12
+107;"Robert James Fischer";"Black";"Nc6";14
+107;"Robert James Fischer";"Black";"Ne7";16
+107;"Robert James Fischer";"Black";"Ne8";18
+107;"Robert James Fischer";"Black";"f5";20
+109;"Robert James Fischer";"Black";"Nf6";2
+109;"Robert James Fischer";"Black";"g6";4
+109;"Robert James Fischer";"Black";"Bg7";6
+109;"Robert James Fischer";"Black";"d6";8
+109;"Robert James Fischer";"Black";"O-O";10
+109;"Robert James Fischer";"Black";"e5";12
+109;"Robert James Fischer";"Black";"Nc6";14
+109;"Robert James Fischer";"Black";"Ne7";16
+109;"Robert James Fischer";"Black";"Ne8";18
+109;"Robert James Fischer";"Black";"f5";20
+113;"Fischer Robert J (USA)";"Black";"Nf6";2
+113;"Fischer Robert J (USA)";"Black";"g6";4
+113;"Fischer Robert J (USA)";"Black";"d5";6
+113;"Fischer Robert J (USA)";"Black";"Ne4";8
+113;"Fischer Robert J (USA)";"Black";"Nxc3";10
+113;"Fischer Robert J (USA)";"Black";"dxc4";12
+113;"Fischer Robert J (USA)";"Black";"Be6";14
+113;"Fischer Robert J (USA)";"Black";"b6";16
+113;"Fischer Robert J (USA)";"Black";"Bg7";18
+113;"Fischer Robert J (USA)";"Black";"O-O";20
+114;"Fischer Robert J (USA)";"Black";"Nf6";2
+114;"Fischer Robert J (USA)";"Black";"e6";4
+114;"Fischer Robert J (USA)";"Black";"d5";6
+114;"Fischer Robert J (USA)";"Black";"c5";8
+114;"Fischer Robert J (USA)";"Black";"Nxd5";10
+114;"Fischer Robert J (USA)";"Black";"Nc6";12
+114;"Fischer Robert J (USA)";"Black";"cxd4";14
+114;"Fischer Robert J (USA)";"Black";"Be7";16
+114;"Fischer Robert J (USA)";"Black";"a6";18
+114;"Fischer Robert J (USA)";"Black";"O-O";20
+115;"Fischer Robert J (USA)";"Black";"g6";2
+115;"Fischer Robert J (USA)";"Black";"Bg7";4
+115;"Fischer Robert J (USA)";"Black";"c5";6
+115;"Fischer Robert J (USA)";"Black";"cxd4";8
+115;"Fischer Robert J (USA)";"Black";"Nc6";10
+115;"Fischer Robert J (USA)";"Black";"Bxc3+";12
+115;"Fischer Robert J (USA)";"Black";"Nf6";14
+115;"Fischer Robert J (USA)";"Black";"d6";16
+115;"Fischer Robert J (USA)";"Black";"Be6";18
+115;"Fischer Robert J (USA)";"Black";"Rc8";20
+116;"Fischer Robert J (USA)";"Black";"Nf6";2
+116;"Fischer Robert J (USA)";"Black";"e6";4
+116;"Fischer Robert J (USA)";"Black";"Bb4";6
+116;"Fischer Robert J (USA)";"Black";"b6";8
+116;"Fischer Robert J (USA)";"Black";"Bb7";10
+116;"Fischer Robert J (USA)";"Black";"O-O";12
+116;"Fischer Robert J (USA)";"Black";"Bxc3";14
+116;"Fischer Robert J (USA)";"Black";"Be4";16
+116;"Fischer Robert J (USA)";"Black";"c5";18
+116;"Fischer Robert J (USA)";"Black";"Bg6";20
+117;"Fischer Robert J (USA)";"Black";"c5";2
+117;"Fischer Robert J (USA)";"Black";"Nf6";4
+117;"Fischer Robert J (USA)";"Black";"Nd5";6
+117;"Fischer Robert J (USA)";"Black";"cxd4";8
+117;"Fischer Robert J (USA)";"Black";"e6";10
+117;"Fischer Robert J (USA)";"Black";"Nc6";12
+117;"Fischer Robert J (USA)";"Black";"d6";14
+117;"Fischer Robert J (USA)";"Black";"Be7";16
+117;"Fischer Robert J (USA)";"Black";"dxe5";18
+117;"Fischer Robert J (USA)";"Black";"Nxe5";20
+118;"Fischer Robert J (USA)";"Black";"c5";2
+118;"Fischer Robert J (USA)";"Black";"d6";4
+118;"Fischer Robert J (USA)";"Black";"cxd4";6
+118;"Fischer Robert J (USA)";"Black";"Nf6";8
+118;"Fischer Robert J (USA)";"Black";"a6";10
+118;"Fischer Robert J (USA)";"Black";"e6";12
+118;"Fischer Robert J (USA)";"Black";"Qb6";14
+118;"Fischer Robert J (USA)";"Black";"Qxb2";16
+118;"Fischer Robert J (USA)";"Black";"Qa3";18
+118;"Fischer Robert J (USA)";"Black";"gxf6";20
+119;"Fischer Robert J (USA)";"Black";"c5";2
+119;"Fischer Robert J (USA)";"Black";"d6";4
+119;"Fischer Robert J (USA)";"Black";"cxd4";6
+119;"Fischer Robert J (USA)";"Black";"Nf6";8
+119;"Fischer Robert J (USA)";"Black";"a6";10
+119;"Fischer Robert J (USA)";"Black";"Qc7";12
+119;"Fischer Robert J (USA)";"Black";"g6";14
+119;"Fischer Robert J (USA)";"Black";"Bg7";16
+119;"Fischer Robert J (USA)";"Black";"O-O";18
+119;"Fischer Robert J (USA)";"Black";"Nbd7";20
+120;"Fischer Robert J (USA)";"Black";"Nf6";2
+120;"Fischer Robert J (USA)";"Black";"g6";4
+120;"Fischer Robert J (USA)";"Black";"d6";6
+120;"Fischer Robert J (USA)";"Black";"Bg7";8
+120;"Fischer Robert J (USA)";"Black";"c5";10
+120;"Fischer Robert J (USA)";"Black";"O-O";12
+120;"Fischer Robert J (USA)";"Black";"e6";14
+120;"Fischer Robert J (USA)";"Black";"h6";16
+120;"Fischer Robert J (USA)";"Black";"Nbd7";18
+120;"Fischer Robert J (USA)";"Black";"exd5";20
+121;"Fischer Robert J (USA)";"Black";"Nf6";2
+121;"Fischer Robert J (USA)";"Black";"g6";4
+121;"Fischer Robert J (USA)";"Black";"Bg7";6
+121;"Fischer Robert J (USA)";"Black";"O-O";8
+121;"Fischer Robert J (USA)";"Black";"d6";10
+121;"Fischer Robert J (USA)";"Black";"e5";12
+121;"Fischer Robert J (USA)";"Black";"c6";14
+121;"Fischer Robert J (USA)";"Black";"Ng4";16
+121;"Fischer Robert J (USA)";"Black";"f6";18
+121;"Fischer Robert J (USA)";"Black";"f5";20
+122;"Fischer Robert J (USA)";"Black";"g6";2
+122;"Fischer Robert J (USA)";"Black";"Bg7";4
+122;"Fischer Robert J (USA)";"Black";"Nf6";6
+122;"Fischer Robert J (USA)";"Black";"O-O";8
+122;"Fischer Robert J (USA)";"Black";"c6";10
+122;"Fischer Robert J (USA)";"Black";"d5";12
+122;"Fischer Robert J (USA)";"Black";"cxd5";14
+122;"Fischer Robert J (USA)";"Black";"Ne4";16
+122;"Fischer Robert J (USA)";"Black";"Nc6";18
+122;"Fischer Robert J (USA)";"Black";"Na5";20
+123;"Fischer Robert J (USA)";"Black";"g6";2
+123;"Fischer Robert J (USA)";"Black";"Bg7";4
+123;"Fischer Robert J (USA)";"Black";"c5";6
+123;"Fischer Robert J (USA)";"Black";"Nc6";8
+123;"Fischer Robert J (USA)";"Black";"e6";10
+123;"Fischer Robert J (USA)";"Black";"Nge7";12
+123;"Fischer Robert J (USA)";"Black";"Bxb2";14
+123;"Fischer Robert J (USA)";"Black";"O-O";16
+123;"Fischer Robert J (USA)";"Black";"d5";18
+123;"Fischer Robert J (USA)";"Black";"Nxd5";20
+124;"Fischer Robert J (USA)";"Black";"Nf6";2
+124;"Fischer Robert J (USA)";"Black";"Nd5";4
+124;"Fischer Robert J (USA)";"Black";"d6";6
+124;"Fischer Robert J (USA)";"Black";"Nb6";8
+124;"Fischer Robert J (USA)";"Black";"cxd6";10
+124;"Fischer Robert J (USA)";"Black";"g6";12
+124;"Fischer Robert J (USA)";"Black";"Bg7";14
+124;"Fischer Robert J (USA)";"Black";"Bxd4";16
+124;"Fischer Robert J (USA)";"Black";"O-O";18
+124;"Fischer Robert J (USA)";"Black";"e5";20
+125;"Fischer Robert J (USA)";"Black";"Nf6";2
+125;"Fischer Robert J (USA)";"Black";"c5";4
+125;"Fischer Robert J (USA)";"Black";"e6";6
+125;"Fischer Robert J (USA)";"Black";"exd5";8
+125;"Fischer Robert J (USA)";"Black";"d6";10
+125;"Fischer Robert J (USA)";"Black";"g6";12
+125;"Fischer Robert J (USA)";"Black";"a6";14
+125;"Fischer Robert J (USA)";"Black";"Bg7";16
+125;"Fischer Robert J (USA)";"Black";"O-O";18
+125;"Fischer Robert J (USA)";"Black";"Bg4";20
+126;"Fischer Robert J (USA)";"Black";"Nf6";2
+126;"Fischer Robert J (USA)";"Black";"Nd5";4
+126;"Fischer Robert J (USA)";"Black";"d6";6
+126;"Fischer Robert J (USA)";"Black";"Nb6";8
+126;"Fischer Robert J (USA)";"Black";"Bf5";10
+126;"Fischer Robert J (USA)";"Black";"e6";12
+126;"Fischer Robert J (USA)";"Black";"Be7";14
+126;"Fischer Robert J (USA)";"Black";"O-O";16
+126;"Fischer Robert J (USA)";"Black";"cxd6";18
+126;"Fischer Robert J (USA)";"Black";"d5";20
+128;"Fischer Robert J (USA)";"Black";"Nf6";2
+128;"Fischer Robert J (USA)";"Black";"g6";4
+128;"Fischer Robert J (USA)";"Black";"Bg7";6
+128;"Fischer Robert J (USA)";"Black";"d6";8
+128;"Fischer Robert J (USA)";"Black";"c5";10
+128;"Fischer Robert J (USA)";"Black";"dxc5";12
+128;"Fischer Robert J (USA)";"Black";"Kxd8";14
+128;"Fischer Robert J (USA)";"Black";"Nfd7";16
+128;"Fischer Robert J (USA)";"Black";"Nc6";18
+128;"Fischer Robert J (USA)";"Black";"b6";20
+129;"Fischer Robert J (USA)";"Black";"Nf6";2
+129;"Fischer Robert J (USA)";"Black";"g6";4
+129;"Fischer Robert J (USA)";"Black";"Bg7";6
+129;"Fischer Robert J (USA)";"Black";"d6";8
+129;"Fischer Robert J (USA)";"Black";"O-O";10
+129;"Fischer Robert J (USA)";"Black";"e5";12
+129;"Fischer Robert J (USA)";"Black";"Nbd7";14
+129;"Fischer Robert J (USA)";"Black";"Nc5";16
+129;"Fischer Robert J (USA)";"Black";"a5";18
+129;"Fischer Robert J (USA)";"Black";"h6";20
+130;"Fischer Robert J (USA)";"Black";"Nf6";2
+130;"Fischer Robert J (USA)";"Black";"g6";4
+130;"Fischer Robert J (USA)";"Black";"d5";6
+130;"Fischer Robert J (USA)";"Black";"Nxd5";8
+130;"Fischer Robert J (USA)";"Black";"Nxc3";10
+130;"Fischer Robert J (USA)";"Black";"Bg7";12
+130;"Fischer Robert J (USA)";"Black";"c5";14
+130;"Fischer Robert J (USA)";"Black";"Nc6";16
+130;"Fischer Robert J (USA)";"Black";"O-O";18
+130;"Fischer Robert J (USA)";"Black";"Qc7";20
+131;"Robert James Fischer";"Black";"c5";2
+131;"Robert James Fischer";"Black";"d6";4
+131;"Robert James Fischer";"Black";"Nc6";6
+131;"Robert James Fischer";"Black";"g6";8
+131;"Robert James Fischer";"Black";"Bg7";10
+131;"Robert James Fischer";"Black";"Nf6";12
+131;"Robert James Fischer";"Black";"gxf5";14
+131;"Robert James Fischer";"Black";"O-O";16
+131;"Robert James Fischer";"Black";"Na5";18
+131;"Robert James Fischer";"Black";"Nxb3";20
+132;"Robert James Fischer";"Black";"c5";2
+132;"Robert James Fischer";"Black";"d6";4
+132;"Robert James Fischer";"Black";"cxd4";6
+132;"Robert James Fischer";"Black";"Nf6";8
+132;"Robert James Fischer";"Black";"a6";10
+132;"Robert James Fischer";"Black";"e5";12
+132;"Robert James Fischer";"Black";"Be7";14
+132;"Robert James Fischer";"Black";"Nbd7";16
+132;"Robert James Fischer";"Black";"O-O";18
+132;"Robert James Fischer";"Black";"b5";20
+133;"Robert James Fischer";"Black";"c5";2
+133;"Robert James Fischer";"Black";"d6";4
+133;"Robert James Fischer";"Black";"cxd4";6
+133;"Robert James Fischer";"Black";"Nf6";8
+133;"Robert James Fischer";"Black";"a6";10
+133;"Robert James Fischer";"Black";"e6";12
+133;"Robert James Fischer";"Black";"Be7";14
+133;"Robert James Fischer";"Black";"b5";16
+133;"Robert James Fischer";"Black";"Qc7";18
+133;"Robert James Fischer";"Black";"Nbd7";20
+134;"Robert James Fischer";"Black";"e5";2
+134;"Robert James Fischer";"Black";"Bxb4";4
+134;"Robert James Fischer";"Black";"Nf6";6
+134;"Robert James Fischer";"Black";"O-O";8
+134;"Robert James Fischer";"Black";"d5";10
+134;"Robert James Fischer";"Black";"Be7";12
+134;"Robert James Fischer";"Black";"c5";14
+134;"Robert James Fischer";"Black";"Nc6";16
+134;"Robert James Fischer";"Black";"d4";18
+134;"Robert James Fischer";"Black";"Bg4";20
+135;"Robert James Fischer";"Black";"c5";2
+135;"Robert James Fischer";"Black";"d6";4
+135;"Robert James Fischer";"Black";"a6";6
+135;"Robert James Fischer";"Black";"Nc6";8
+135;"Robert James Fischer";"Black";"Bg4";10
+135;"Robert James Fischer";"Black";"Bxf3";12
+135;"Robert James Fischer";"Black";"g6";14
+135;"Robert James Fischer";"Black";"Bg7";16
+135;"Robert James Fischer";"Black";"e6";18
+135;"Robert James Fischer";"Black";"Nge7";20
+137;"Fischer Robert J (USA)";"Black";"Nf6";2
+137;"Fischer Robert J (USA)";"Black";"c5";4
+137;"Fischer Robert J (USA)";"Black";"cxd4";6
+137;"Fischer Robert J (USA)";"Black";"Nc6";8
+137;"Fischer Robert J (USA)";"Black";"g6";10
+137;"Fischer Robert J (USA)";"Black";"d6";12
+137;"Fischer Robert J (USA)";"Black";"Nxd4";14
+137;"Fischer Robert J (USA)";"Black";"Bg7";16
+137;"Fischer Robert J (USA)";"Black";"O-O";18
+137;"Fischer Robert J (USA)";"Black";"Be6";20
+140;"Fischer Robert J (USA)";"Black";"g6";2
+140;"Fischer Robert J (USA)";"Black";"Bg7";4
+140;"Fischer Robert J (USA)";"Black";"c5";6
+140;"Fischer Robert J (USA)";"Black";"cxd4";8
+140;"Fischer Robert J (USA)";"Black";"Nc6";10
+140;"Fischer Robert J (USA)";"Black";"Bxc3+";12
+140;"Fischer Robert J (USA)";"Black";"Nf6";14
+140;"Fischer Robert J (USA)";"Black";"d6";16
+140;"Fischer Robert J (USA)";"Black";"Be6";18
+140;"Fischer Robert J (USA)";"Black";"Rc8";20
+142;"Fischer Robert J (USA)";"Black";"Nf6";2
+142;"Fischer Robert J (USA)";"Black";"g6";4
+142;"Fischer Robert J (USA)";"Black";"Bg7";6
+142;"Fischer Robert J (USA)";"Black";"d6";8
+142;"Fischer Robert J (USA)";"Black";"O-O";10
+142;"Fischer Robert J (USA)";"Black";"e5";12
+142;"Fischer Robert J (USA)";"Black";"Nc6";14
+142;"Fischer Robert J (USA)";"Black";"Ne7";16
+142;"Fischer Robert J (USA)";"Black";"c5";18
+142;"Fischer Robert J (USA)";"Black";"Ne8";20
+143;"Fischer Robert J (USA)";"Black";"Nf6";2
+143;"Fischer Robert J (USA)";"Black";"e6";4
+143;"Fischer Robert J (USA)";"Black";"c5";6
+143;"Fischer Robert J (USA)";"Black";"exd5";8
+143;"Fischer Robert J (USA)";"Black";"g6";10
+143;"Fischer Robert J (USA)";"Black";"Bg7";12
+143;"Fischer Robert J (USA)";"Black";"d6";14
+143;"Fischer Robert J (USA)";"Black";"Bd7";16
+143;"Fischer Robert J (USA)";"Black";"Qc7";18
+143;"Fischer Robert J (USA)";"Black";"O-O";20
+144;"Fischer Robert J (USA)";"Black";"Nf6";2
+144;"Fischer Robert J (USA)";"Black";"c5";4
+144;"Fischer Robert J (USA)";"Black";"cxd4";6
+144;"Fischer Robert J (USA)";"Black";"e6";8
+144;"Fischer Robert J (USA)";"Black";"Bb4";10
+144;"Fischer Robert J (USA)";"Black";"Ne4";12
+144;"Fischer Robert J (USA)";"Black";"Nxc3";14
+144;"Fischer Robert J (USA)";"Black";"Be7";16
+144;"Fischer Robert J (USA)";"Black";"O-O";18
+144;"Fischer Robert J (USA)";"Black";"a6";20
+145;"Fischer Robert J (USA)";"Black";"c5";2
+145;"Fischer Robert J (USA)";"Black";"d6";4
+145;"Fischer Robert J (USA)";"Black";"a6";6
+145;"Fischer Robert J (USA)";"Black";"Nc6";8
+145;"Fischer Robert J (USA)";"Black";"g6";10
+145;"Fischer Robert J (USA)";"Black";"Bg4";12
+145;"Fischer Robert J (USA)";"Black";"dxc5";14
+145;"Fischer Robert J (USA)";"Black";"Qa5";16
+145;"Fischer Robert J (USA)";"Black";"Bg7";18
+145;"Fischer Robert J (USA)";"Black";"Rd8";20
+146;"Fischer Robert J (USA)";"Black";"c5";2
+146;"Fischer Robert J (USA)";"Black";"d6";4
+146;"Fischer Robert J (USA)";"Black";"cxd4";6
+146;"Fischer Robert J (USA)";"Black";"Nf6";8
+146;"Fischer Robert J (USA)";"Black";"a6";10
+146;"Fischer Robert J (USA)";"Black";"e6";12
+146;"Fischer Robert J (USA)";"Black";"Be7";14
+146;"Fischer Robert J (USA)";"Black";"Qc7";16
+146;"Fischer Robert J (USA)";"Black";"Nbd7";18
+146;"Fischer Robert J (USA)";"Black";"b5";20
+147;"Fischer Robert J (USA)";"Black";"c5";2
+147;"Fischer Robert J (USA)";"Black";"d6";4
+147;"Fischer Robert J (USA)";"Black";"cxd4";6
+147;"Fischer Robert J (USA)";"Black";"Nf6";8
+147;"Fischer Robert J (USA)";"Black";"a6";10
+147;"Fischer Robert J (USA)";"Black";"e6";12
+147;"Fischer Robert J (USA)";"Black";"Qb6";14
+147;"Fischer Robert J (USA)";"Black";"Qxb2";16
+147;"Fischer Robert J (USA)";"Black";"Qa3";18
+147;"Fischer Robert J (USA)";"Black";"gxf6";20
+148;"Fischer Robert J (USA)";"Black";"c5";2
+148;"Fischer Robert J (USA)";"Black";"g6";4
+148;"Fischer Robert J (USA)";"Black";"Bg7";6
+148;"Fischer Robert J (USA)";"Black";"Nc6";8
+148;"Fischer Robert J (USA)";"Black";"Qa5+";10
+148;"Fischer Robert J (USA)";"Black";"Qxc5";12
+148;"Fischer Robert J (USA)";"Black";"Qb6";14
+148;"Fischer Robert J (USA)";"Black";"d6";16
+148;"Fischer Robert J (USA)";"Black";"Nf6";18
+148;"Fischer Robert J (USA)";"Black";"O-O";20
+149;"Fischer Robert J (USA)";"Black";"c5";2
+149;"Fischer Robert J (USA)";"Black";"d6";4
+149;"Fischer Robert J (USA)";"Black";"g6";6
+149;"Fischer Robert J (USA)";"Black";"Bg7";8
+149;"Fischer Robert J (USA)";"Black";"Nc6";10
+149;"Fischer Robert J (USA)";"Black";"Rb8";12
+149;"Fischer Robert J (USA)";"Black";"b5";14
+149;"Fischer Robert J (USA)";"Black";"b4";16
+149;"Fischer Robert J (USA)";"Black";"Bg4";18
+149;"Fischer Robert J (USA)";"Black";"Bxf3";20
+150;"Fischer Robert J (USA)";"Black";"c5";2
+150;"Fischer Robert J (USA)";"Black";"d6";4
+150;"Fischer Robert J (USA)";"Black";"cxd4";6
+150;"Fischer Robert J (USA)";"Black";"Nf6";8
+150;"Fischer Robert J (USA)";"Black";"a6";10
+150;"Fischer Robert J (USA)";"Black";"e5";12
+150;"Fischer Robert J (USA)";"Black";"Be7";14
+150;"Fischer Robert J (USA)";"Black";"Be6";16
+150;"Fischer Robert J (USA)";"Black";"Nbd7";18
+150;"Fischer Robert J (USA)";"Black";"Rc8";20
+151;"Fischer Robert J (USA)";"Black";"Nf6";2
+151;"Fischer Robert J (USA)";"Black";"e6";4
+151;"Fischer Robert J (USA)";"Black";"Bb4";6
+151;"Fischer Robert J (USA)";"Black";"b6";8
+151;"Fischer Robert J (USA)";"Black";"Ba6";10
+151;"Fischer Robert J (USA)";"Black";"Bxc3+";12
+151;"Fischer Robert J (USA)";"Black";"d5";14
+151;"Fischer Robert J (USA)";"Black";"dxc4";16
+151;"Fischer Robert J (USA)";"Black";"Qd7";18
+151;"Fischer Robert J (USA)";"Black";"Nc6";20
+152;"Robert James Fischer";"Black";"c5";2
+152;"Robert James Fischer";"Black";"d6";4
+152;"Robert James Fischer";"Black";"cxd4";6
+152;"Robert James Fischer";"Black";"Nf6";8
+152;"Robert James Fischer";"Black";"a6";10
+152;"Robert James Fischer";"Black";"e6";12
+152;"Robert James Fischer";"Black";"Be7";14
+152;"Robert James Fischer";"Black";"Qc7";16
+152;"Robert James Fischer";"Black";"Nbd7";18
+152;"Robert James Fischer";"Black";"b5";20
+153;"Robert James Fischer";"Black";"c5";2
+153;"Robert James Fischer";"Black";"d6";4
+153;"Robert James Fischer";"Black";"cxd4";6
+153;"Robert James Fischer";"Black";"Nf6";8
+153;"Robert James Fischer";"Black";"a6";10
+153;"Robert James Fischer";"Black";"e6";12
+153;"Robert James Fischer";"Black";"Qb6";14
+153;"Robert James Fischer";"Black";"Qxb2";16
+153;"Robert James Fischer";"Black";"Qa3";18
+153;"Robert James Fischer";"Black";"gxf6";20
+154;"Robert James Fischer";"Black";"Nf6";2
+154;"Robert James Fischer";"Black";"c5";4
+154;"Robert James Fischer";"Black";"cxd4";6
+154;"Robert James Fischer";"Black";"Nc6";8
+154;"Robert James Fischer";"Black";"g6";10
+154;"Robert James Fischer";"Black";"d6";12
+154;"Robert James Fischer";"Black";"Nxd4";14
+154;"Robert James Fischer";"Black";"Bg7";16
+154;"Robert James Fischer";"Black";"O-O";18
+154;"Robert James Fischer";"Black";"Be6";20
+155;"Robert James Fischer";"Black";"Nf6";2
+155;"Robert James Fischer";"Black";"e6";4
+155;"Robert James Fischer";"Black";"Bb4";6
+155;"Robert James Fischer";"Black";"b6";8
+155;"Robert James Fischer";"Black";"Bb7";10
+155;"Robert James Fischer";"Black";"O-O";12
+155;"Robert James Fischer";"Black";"Bxc3";14
+155;"Robert James Fischer";"Black";"Be4";16
+155;"Robert James Fischer";"Black";"c5";18
+155;"Robert James Fischer";"Black";"Bg6";20
+156;"Robert James Fischer";"Black";"c5";2
+156;"Robert James Fischer";"Black";"d6";4
+156;"Robert James Fischer";"Black";"Nc6";6
+156;"Robert James Fischer";"Black";"g6";8
+156;"Robert James Fischer";"Black";"Bg7";10
+156;"Robert James Fischer";"Black";"Nf6";12
+156;"Robert James Fischer";"Black";"gxf5";14
+156;"Robert James Fischer";"Black";"O-O";16
+156;"Robert James Fischer";"Black";"Na5";18
+156;"Robert James Fischer";"Black";"Nxb3";20
+157;"Robert James Fischer";"Black";"c5";2
+157;"Robert James Fischer";"Black";"d6";4
+157;"Robert James Fischer";"Black";"cxd4";6
+157;"Robert James Fischer";"Black";"Nf6";8
+157;"Robert James Fischer";"Black";"a6";10
+157;"Robert James Fischer";"Black";"e6";12
+157;"Robert James Fischer";"Black";"Be7";14
+157;"Robert James Fischer";"Black";"Qc7";16
+157;"Robert James Fischer";"Black";"Nbd7";18
+157;"Robert James Fischer";"Black";"O-O";20
+158;"Robert James Fischer";"Black";"c5";2
+158;"Robert James Fischer";"Black";"d6";4
+158;"Robert James Fischer";"Black";"cxd4";6
+158;"Robert James Fischer";"Black";"Nf6";8
+158;"Robert James Fischer";"Black";"a6";10
+158;"Robert James Fischer";"Black";"g6";12
+158;"Robert James Fischer";"Black";"Bg7";14
+158;"Robert James Fischer";"Black";"O-O";16
+158;"Robert James Fischer";"Black";"Nc6";18
+158;"Robert James Fischer";"Black";"Bd7";20
+159;"Robert James Fischer";"Black";"c5";2
+159;"Robert James Fischer";"Black";"d6";4
+159;"Robert James Fischer";"Black";"a6";6
+159;"Robert James Fischer";"Black";"cxd4";8
+159;"Robert James Fischer";"Black";"Nf6";10
+159;"Robert James Fischer";"Black";"e5";12
+159;"Robert James Fischer";"Black";"Be7";14
+159;"Robert James Fischer";"Black";"Nbd7";16
+159;"Robert James Fischer";"Black";"O-O";18
+159;"Robert James Fischer";"Black";"h6";20
+160;"Robert James Fischer";"Black";"Nf6";2
+160;"Robert James Fischer";"Black";"g6";4
+160;"Robert James Fischer";"Black";"Bg7";6
+160;"Robert James Fischer";"Black";"O-O";8
+160;"Robert James Fischer";"Black";"d6";10
+160;"Robert James Fischer";"Black";"h6";12
+160;"Robert James Fischer";"Black";"Nbd7";14
+160;"Robert James Fischer";"Black";"e5";16
+160;"Robert James Fischer";"Black";"Kh8";18
+160;"Robert James Fischer";"Black";"Qe8";20
+162;"Fischer Robert J (USA)";"Black";"Nf6";2
+162;"Fischer Robert J (USA)";"Black";"c5";4
+162;"Fischer Robert J (USA)";"Black";"cxd4";6
+162;"Fischer Robert J (USA)";"Black";"Nc6";8
+162;"Fischer Robert J (USA)";"Black";"g6";10
+162;"Fischer Robert J (USA)";"Black";"d6";12
+162;"Fischer Robert J (USA)";"Black";"Nxd4";14
+162;"Fischer Robert J (USA)";"Black";"Bg7";16
+162;"Fischer Robert J (USA)";"Black";"O-O";18
+162;"Fischer Robert J (USA)";"Black";"Be6";20
+163;"Fischer Robert J (USA)";"Black";"g6";2
+163;"Fischer Robert J (USA)";"Black";"Bg7";4
+163;"Fischer Robert J (USA)";"Black";"c5";6
+163;"Fischer Robert J (USA)";"Black";"cxd4";8
+163;"Fischer Robert J (USA)";"Black";"Nc6";10
+163;"Fischer Robert J (USA)";"Black";"Bxc3+";12
+163;"Fischer Robert J (USA)";"Black";"Nf6";14
+163;"Fischer Robert J (USA)";"Black";"d6";16
+163;"Fischer Robert J (USA)";"Black";"Be6";18
+163;"Fischer Robert J (USA)";"Black";"Rc8";20
+164;"Fischer Robert J (USA)";"Black";"Nf6";2
+164;"Fischer Robert J (USA)";"Black";"e6";4
+164;"Fischer Robert J (USA)";"Black";"Bb4";6
+164;"Fischer Robert J (USA)";"Black";"b6";8
+164;"Fischer Robert J (USA)";"Black";"Bb7";10
+164;"Fischer Robert J (USA)";"Black";"O-O";12
+164;"Fischer Robert J (USA)";"Black";"Bxc3";14
+164;"Fischer Robert J (USA)";"Black";"Be4";16
+164;"Fischer Robert J (USA)";"Black";"c5";18
+164;"Fischer Robert J (USA)";"Black";"Bg6";20
+165;"Fischer Robert J (USA)";"Black";"Nf6";2
+165;"Fischer Robert J (USA)";"Black";"g6";4
+165;"Fischer Robert J (USA)";"Black";"h6";6
+165;"Fischer Robert J (USA)";"Black";"Bg7";8
+165;"Fischer Robert J (USA)";"Black";"g5";10
+165;"Fischer Robert J (USA)";"Black";"Nh5";12
+165;"Fischer Robert J (USA)";"Black";"d6";14
+165;"Fischer Robert J (USA)";"Black";"g4";16
+165;"Fischer Robert J (USA)";"Black";"Bxd4";18
+165;"Fischer Robert J (USA)";"Black";"Bf6";20
+166;"Fischer Robert J (USA)";"Black";"Nf6";2
+166;"Fischer Robert J (USA)";"Black";"g6";4
+166;"Fischer Robert J (USA)";"Black";"Bg7";6
+166;"Fischer Robert J (USA)";"Black";"O-O";8
+166;"Fischer Robert J (USA)";"Black";"d6";10
+166;"Fischer Robert J (USA)";"Black";"Nbd7";12
+166;"Fischer Robert J (USA)";"Black";"e5";14
+166;"Fischer Robert J (USA)";"Black";"exd4";16
+166;"Fischer Robert J (USA)";"Black";"Nc5";18
+166;"Fischer Robert J (USA)";"Black";"a5";20
+167;"Fischer Robert J (USA)";"Black";"Nf6";2
+167;"Fischer Robert J (USA)";"Black";"g6";4
+167;"Fischer Robert J (USA)";"Black";"Bg7";6
+167;"Fischer Robert J (USA)";"Black";"d6";8
+167;"Fischer Robert J (USA)";"Black";"O-O";10
+167;"Fischer Robert J (USA)";"Black";"e5";12
+167;"Fischer Robert J (USA)";"Black";"Nc6";14
+167;"Fischer Robert J (USA)";"Black";"Ne7";16
+167;"Fischer Robert J (USA)";"Black";"c5";18
+167;"Fischer Robert J (USA)";"Black";"Ne8";20
+168;"Fischer Robert J (USA)";"Black";"c5";2
+168;"Fischer Robert J (USA)";"Black";"d6";4
+168;"Fischer Robert J (USA)";"Black";"cxd4";6
+168;"Fischer Robert J (USA)";"Black";"Nf6";8
+168;"Fischer Robert J (USA)";"Black";"a6";10
+168;"Fischer Robert J (USA)";"Black";"e6";12
+168;"Fischer Robert J (USA)";"Black";"Qb6";14
+168;"Fischer Robert J (USA)";"Black";"Qxb2";16
+168;"Fischer Robert J (USA)";"Black";"Qa3";18
+168;"Fischer Robert J (USA)";"Black";"gxf6";20
+169;"Fischer Robert J (USA)";"Black";"c5";2
+169;"Fischer Robert J (USA)";"Black";"d6";4
+169;"Fischer Robert J (USA)";"Black";"cxd4";6
+169;"Fischer Robert J (USA)";"Black";"Nf6";8
+169;"Fischer Robert J (USA)";"Black";"a6";10
+169;"Fischer Robert J (USA)";"Black";"Qc7";12
+169;"Fischer Robert J (USA)";"Black";"g6";14
+169;"Fischer Robert J (USA)";"Black";"Bg7";16
+169;"Fischer Robert J (USA)";"Black";"O-O";18
+169;"Fischer Robert J (USA)";"Black";"Nbd7";20
+170;"Fischer Robert J (USA)";"Black";"Nf6";2
+170;"Fischer Robert J (USA)";"Black";"g6";4
+170;"Fischer Robert J (USA)";"Black";"d6";6
+170;"Fischer Robert J (USA)";"Black";"Bg7";8
+170;"Fischer Robert J (USA)";"Black";"c5";10
+170;"Fischer Robert J (USA)";"Black";"O-O";12
+170;"Fischer Robert J (USA)";"Black";"e6";14
+170;"Fischer Robert J (USA)";"Black";"h6";16
+170;"Fischer Robert J (USA)";"Black";"Nbd7";18
+170;"Fischer Robert J (USA)";"Black";"exd5";20
+171;"Fischer Robert J (USA)";"Black";"Nf6";2
+171;"Fischer Robert J (USA)";"Black";"g6";4
+171;"Fischer Robert J (USA)";"Black";"Bg7";6
+171;"Fischer Robert J (USA)";"Black";"O-O";8
+171;"Fischer Robert J (USA)";"Black";"d6";10
+171;"Fischer Robert J (USA)";"Black";"e5";12
+171;"Fischer Robert J (USA)";"Black";"c6";14
+171;"Fischer Robert J (USA)";"Black";"Ng4";16
+171;"Fischer Robert J (USA)";"Black";"f6";18
+171;"Fischer Robert J (USA)";"Black";"f5";20
+172;"Fischer Robert J (USA)";"Black";"g6";2
+172;"Fischer Robert J (USA)";"Black";"Bg7";4
+172;"Fischer Robert J (USA)";"Black";"Nf6";6
+172;"Fischer Robert J (USA)";"Black";"O-O";8
+172;"Fischer Robert J (USA)";"Black";"c6";10
+172;"Fischer Robert J (USA)";"Black";"d5";12
+172;"Fischer Robert J (USA)";"Black";"cxd5";14
+172;"Fischer Robert J (USA)";"Black";"Ne4";16
+172;"Fischer Robert J (USA)";"Black";"Nc6";18
+172;"Fischer Robert J (USA)";"Black";"Na5";20
+173;"Fischer Robert J (USA)";"Black";"c5";2
+173;"Fischer Robert J (USA)";"Black";"d6";4
+173;"Fischer Robert J (USA)";"Black";"e5";6
+173;"Fischer Robert J (USA)";"Black";"Be7";8
+173;"Fischer Robert J (USA)";"Black";"Nf6";10
+173;"Fischer Robert J (USA)";"Black";"Nc6";12
+173;"Fischer Robert J (USA)";"Black";"O-O";14
+173;"Fischer Robert J (USA)";"Black";"a6";16
+173;"Fischer Robert J (USA)";"Black";"exf4";18
+173;"Fischer Robert J (USA)";"Black";"Be6";20
+174;"Fischer Robert J (USA)";"Black";"Nf6";2
+174;"Fischer Robert J (USA)";"Black";"c5";4
+174;"Fischer Robert J (USA)";"Black";"cxd4";6
+174;"Fischer Robert J (USA)";"Black";"e6";8
+174;"Fischer Robert J (USA)";"Black";"Bb4";10
+174;"Fischer Robert J (USA)";"Black";"Ne4";12
+174;"Fischer Robert J (USA)";"Black";"Nxc3";14
+174;"Fischer Robert J (USA)";"Black";"Be7";16
+174;"Fischer Robert J (USA)";"Black";"O-O";18
+174;"Fischer Robert J (USA)";"Black";"a6";20
+175;"Fischer Robert J (USA)";"Black";"Nf6";2
+175;"Fischer Robert J (USA)";"Black";"Nd5";4
+175;"Fischer Robert J (USA)";"Black";"d6";6
+175;"Fischer Robert J (USA)";"Black";"Nb6";8
+175;"Fischer Robert J (USA)";"Black";"Bf5";10
+175;"Fischer Robert J (USA)";"Black";"e6";12
+175;"Fischer Robert J (USA)";"Black";"Be7";14
+175;"Fischer Robert J (USA)";"Black";"O-O";16
+175;"Fischer Robert J (USA)";"Black";"cxd6";18
+175;"Fischer Robert J (USA)";"Black";"d5";20
+176;"Fischer Robert J (USA)";"Black";"c5";2
+176;"Fischer Robert J (USA)";"Black";"d6";4
+176;"Fischer Robert J (USA)";"Black";"g6";6
+176;"Fischer Robert J (USA)";"Black";"Bg7";8
+176;"Fischer Robert J (USA)";"Black";"Nc6";10
+176;"Fischer Robert J (USA)";"Black";"Rb8";12
+176;"Fischer Robert J (USA)";"Black";"b5";14
+176;"Fischer Robert J (USA)";"Black";"b4";16
+176;"Fischer Robert J (USA)";"Black";"Bg4";18
+176;"Fischer Robert J (USA)";"Black";"Bxf3";20
+177;"Fischer Robert J (USA)";"Black";"c5";2
+177;"Fischer Robert J (USA)";"Black";"d6";4
+177;"Fischer Robert J (USA)";"Black";"cxd4";6
+177;"Fischer Robert J (USA)";"Black";"Nf6";8
+177;"Fischer Robert J (USA)";"Black";"a6";10
+177;"Fischer Robert J (USA)";"Black";"e5";12
+177;"Fischer Robert J (USA)";"Black";"Be7";14
+177;"Fischer Robert J (USA)";"Black";"Be6";16
+177;"Fischer Robert J (USA)";"Black";"Nbd7";18
+177;"Fischer Robert J (USA)";"Black";"Rc8";20
+178;"Fischer Robert J (USA)";"Black";"Nf6";2
+178;"Fischer Robert J (USA)";"Black";"e6";4
+178;"Fischer Robert J (USA)";"Black";"Bb4";6
+178;"Fischer Robert J (USA)";"Black";"b6";8
+178;"Fischer Robert J (USA)";"Black";"Ba6";10
+178;"Fischer Robert J (USA)";"Black";"Bxc3+";12
+178;"Fischer Robert J (USA)";"Black";"d5";14
+178;"Fischer Robert J (USA)";"Black";"dxc4";16
+178;"Fischer Robert J (USA)";"Black";"Qd7";18
+178;"Fischer Robert J (USA)";"Black";"Nc6";20
+179;"Fischer Robert J (USA)";"Black";"Nf6";2
+179;"Fischer Robert J (USA)";"Black";"g6";4
+179;"Fischer Robert J (USA)";"Black";"d5";6
+179;"Fischer Robert J (USA)";"Black";"Nxd5";8
+179;"Fischer Robert J (USA)";"Black";"Nxc3";10
+179;"Fischer Robert J (USA)";"Black";"Bg7";12
+179;"Fischer Robert J (USA)";"Black";"c5";14
+179;"Fischer Robert J (USA)";"Black";"Nc6";16
+179;"Fischer Robert J (USA)";"Black";"O-O";18
+179;"Fischer Robert J (USA)";"Black";"Qc7";20
+180;"Fischer Robert J (USA)";"Black";"Nf6";2
+180;"Fischer Robert J (USA)";"Black";"g6";4
+180;"Fischer Robert J (USA)";"Black";"Bg7";6
+180;"Fischer Robert J (USA)";"Black";"d6";8
+180;"Fischer Robert J (USA)";"Black";"O-O";10
+180;"Fischer Robert J (USA)";"Black";"h6";12
+180;"Fischer Robert J (USA)";"Black";"c5";14
+180;"Fischer Robert J (USA)";"Black";"e6";16
+180;"Fischer Robert J (USA)";"Black";"exd5";18
+180;"Fischer Robert J (USA)";"Black";"Kh7";20
+181;"Robert James Fischer";"Black";"c5";2
+181;"Robert James Fischer";"Black";"d6";4
+181;"Robert James Fischer";"Black";"Nc6";6
+181;"Robert James Fischer";"Black";"g6";8
+181;"Robert James Fischer";"Black";"Bg7";10
+181;"Robert James Fischer";"Black";"Nf6";12
+181;"Robert James Fischer";"Black";"gxf5";14
+181;"Robert James Fischer";"Black";"O-O";16
+181;"Robert James Fischer";"Black";"Na5";18
+181;"Robert James Fischer";"Black";"Nxb3";20
+182;"Robert James Fischer";"Black";"c5";2
+182;"Robert James Fischer";"Black";"d6";4
+182;"Robert James Fischer";"Black";"cxd4";6
+182;"Robert James Fischer";"Black";"Nf6";8
+182;"Robert James Fischer";"Black";"a6";10
+182;"Robert James Fischer";"Black";"e6";12
+182;"Robert James Fischer";"Black";"Be7";14
+182;"Robert James Fischer";"Black";"Qc7";16
+182;"Robert James Fischer";"Black";"Nbd7";18
+182;"Robert James Fischer";"Black";"O-O";20
+183;"Robert James Fischer";"Black";"c5";2
+183;"Robert James Fischer";"Black";"d6";4
+183;"Robert James Fischer";"Black";"cxd4";6
+183;"Robert James Fischer";"Black";"Nf6";8
+183;"Robert James Fischer";"Black";"a6";10
+183;"Robert James Fischer";"Black";"g6";12
+183;"Robert James Fischer";"Black";"Bg7";14
+183;"Robert James Fischer";"Black";"O-O";16
+183;"Robert James Fischer";"Black";"Nc6";18
+183;"Robert James Fischer";"Black";"Bd7";20
+184;"Robert James Fischer";"Black";"c5";2
+184;"Robert James Fischer";"Black";"d6";4
+184;"Robert James Fischer";"Black";"a6";6
+184;"Robert James Fischer";"Black";"cxd4";8
+184;"Robert James Fischer";"Black";"Nf6";10
+184;"Robert James Fischer";"Black";"e5";12
+184;"Robert James Fischer";"Black";"Be7";14
+184;"Robert James Fischer";"Black";"Nbd7";16
+184;"Robert James Fischer";"Black";"O-O";18
+184;"Robert James Fischer";"Black";"h6";20
+185;"Robert James Fischer";"Black";"Nf6";2
+185;"Robert James Fischer";"Black";"g6";4
+185;"Robert James Fischer";"Black";"Bg7";6
+185;"Robert James Fischer";"Black";"O-O";8
+185;"Robert James Fischer";"Black";"d6";10
+185;"Robert James Fischer";"Black";"h6";12
+185;"Robert James Fischer";"Black";"Nbd7";14
+185;"Robert James Fischer";"Black";"e5";16
+185;"Robert James Fischer";"Black";"Kh8";18
+185;"Robert James Fischer";"Black";"Qe8";20
+187;"Fischer Robert J (USA)";"Black";"Nf6";2
+187;"Fischer Robert J (USA)";"Black";"e6";4
+187;"Fischer Robert J (USA)";"Black";"Bb4";6
+187;"Fischer Robert J (USA)";"Black";"b6";8
+187;"Fischer Robert J (USA)";"Black";"Bb7";10
+187;"Fischer Robert J (USA)";"Black";"O-O";12
+187;"Fischer Robert J (USA)";"Black";"Bxc3";14
+187;"Fischer Robert J (USA)";"Black";"Be4";16
+187;"Fischer Robert J (USA)";"Black";"c5";18
+187;"Fischer Robert J (USA)";"Black";"Bg6";20
+188;"Fischer Robert J (USA)";"Black";"c5";2
+188;"Fischer Robert J (USA)";"Black";"g6";4
+188;"Fischer Robert J (USA)";"Black";"Bg7";6
+188;"Fischer Robert J (USA)";"Black";"Nc6";8
+188;"Fischer Robert J (USA)";"Black";"e6";10
+188;"Fischer Robert J (USA)";"Black";"Nge7";12
+188;"Fischer Robert J (USA)";"Black";"O-O";14
+188;"Fischer Robert J (USA)";"Black";"e5";16
+188;"Fischer Robert J (USA)";"Black";"d6";18
+188;"Fischer Robert J (USA)";"Black";"f5";20
+189;"Fischer Robert J (USA)";"Black";"g6";2
+189;"Fischer Robert J (USA)";"Black";"Bg7";4
+189;"Fischer Robert J (USA)";"Black";"c5";6
+189;"Fischer Robert J (USA)";"Black";"Nc6";8
+189;"Fischer Robert J (USA)";"Black";"Nf6";10
+189;"Fischer Robert J (USA)";"Black";"O-O";12
+189;"Fischer Robert J (USA)";"Black";"d6";14
+189;"Fischer Robert J (USA)";"Black";"Bf5";16
+189;"Fischer Robert J (USA)";"Black";"Na5";18
+189;"Fischer Robert J (USA)";"Black";"Bd7";20
+190;"Fischer Robert J (USA)";"Black";"e5";2
+190;"Fischer Robert J (USA)";"Black";"Nc6";4
+190;"Fischer Robert J (USA)";"Black";"a6";6
+190;"Fischer Robert J (USA)";"Black";"Nf6";8
+190;"Fischer Robert J (USA)";"Black";"Be7";10
+190;"Fischer Robert J (USA)";"Black";"b5";12
+190;"Fischer Robert J (USA)";"Black";"O-O";14
+190;"Fischer Robert J (USA)";"Black";"d5";16
+190;"Fischer Robert J (USA)";"Black";"Nxd5";18
+190;"Fischer Robert J (USA)";"Black";"Nxe5";20
+191;"Fischer Robert J (USA)";"Black";"c5";2
+191;"Fischer Robert J (USA)";"Black";"Nf6";4
+191;"Fischer Robert J (USA)";"Black";"Nd5";6
+191;"Fischer Robert J (USA)";"Black";"cxd4";8
+191;"Fischer Robert J (USA)";"Black";"e6";10
+191;"Fischer Robert J (USA)";"Black";"Nc6";12
+191;"Fischer Robert J (USA)";"Black";"d6";14
+191;"Fischer Robert J (USA)";"Black";"Be7";16
+191;"Fischer Robert J (USA)";"Black";"dxe5";18
+191;"Fischer Robert J (USA)";"Black";"Nxe5";20
+192;"Fischer Robert J (USA)";"Black";"Nf6";2
+192;"Fischer Robert J (USA)";"Black";"g6";4
+192;"Fischer Robert J (USA)";"Black";"h6";6
+192;"Fischer Robert J (USA)";"Black";"Bg7";8
+192;"Fischer Robert J (USA)";"Black";"g5";10
+192;"Fischer Robert J (USA)";"Black";"Nh5";12
+192;"Fischer Robert J (USA)";"Black";"d6";14
+192;"Fischer Robert J (USA)";"Black";"g4";16
+192;"Fischer Robert J (USA)";"Black";"Bxd4";18
+192;"Fischer Robert J (USA)";"Black";"Bf6";20
+193;"Fischer Robert J (USA)";"Black";"Nf6";2
+193;"Fischer Robert J (USA)";"Black";"g6";4
+193;"Fischer Robert J (USA)";"Black";"Bg7";6
+193;"Fischer Robert J (USA)";"Black";"O-O";8
+193;"Fischer Robert J (USA)";"Black";"d6";10
+193;"Fischer Robert J (USA)";"Black";"Nbd7";12
+193;"Fischer Robert J (USA)";"Black";"e5";14
+193;"Fischer Robert J (USA)";"Black";"exd4";16
+193;"Fischer Robert J (USA)";"Black";"Nc5";18
+193;"Fischer Robert J (USA)";"Black";"a5";20
+194;"Fischer Robert J (USA)";"Black";"Nf6";2
+194;"Fischer Robert J (USA)";"Black";"g6";4
+194;"Fischer Robert J (USA)";"Black";"Bg7";6
+194;"Fischer Robert J (USA)";"Black";"d6";8
+194;"Fischer Robert J (USA)";"Black";"O-O";10
+194;"Fischer Robert J (USA)";"Black";"e5";12
+194;"Fischer Robert J (USA)";"Black";"Nc6";14
+194;"Fischer Robert J (USA)";"Black";"Ne7";16
+194;"Fischer Robert J (USA)";"Black";"c5";18
+194;"Fischer Robert J (USA)";"Black";"Ne8";20
+195;"Fischer Robert J (USA)";"Black";"c5";2
+195;"Fischer Robert J (USA)";"Black";"d6";4
+195;"Fischer Robert J (USA)";"Black";"cxd4";6
+195;"Fischer Robert J (USA)";"Black";"Nf6";8
+195;"Fischer Robert J (USA)";"Black";"a6";10
+195;"Fischer Robert J (USA)";"Black";"e6";12
+195;"Fischer Robert J (USA)";"Black";"Qb6";14
+195;"Fischer Robert J (USA)";"Black";"Qxb2";16
+195;"Fischer Robert J (USA)";"Black";"Qa3";18
+195;"Fischer Robert J (USA)";"Black";"gxf6";20
+196;"Fischer Robert J (USA)";"Black";"Nf6";2
+196;"Fischer Robert J (USA)";"Black";"g6";4
+196;"Fischer Robert J (USA)";"Black";"d6";6
+196;"Fischer Robert J (USA)";"Black";"Bg7";8
+196;"Fischer Robert J (USA)";"Black";"c5";10
+196;"Fischer Robert J (USA)";"Black";"O-O";12
+196;"Fischer Robert J (USA)";"Black";"e6";14
+196;"Fischer Robert J (USA)";"Black";"h6";16
+196;"Fischer Robert J (USA)";"Black";"Nbd7";18
+196;"Fischer Robert J (USA)";"Black";"exd5";20
+197;"Fischer Robert J (USA)";"Black";"Nf6";2
+197;"Fischer Robert J (USA)";"Black";"g6";4
+197;"Fischer Robert J (USA)";"Black";"Bg7";6
+197;"Fischer Robert J (USA)";"Black";"O-O";8
+197;"Fischer Robert J (USA)";"Black";"d6";10
+197;"Fischer Robert J (USA)";"Black";"e5";12
+197;"Fischer Robert J (USA)";"Black";"c6";14
+197;"Fischer Robert J (USA)";"Black";"Ng4";16
+197;"Fischer Robert J (USA)";"Black";"f6";18
+197;"Fischer Robert J (USA)";"Black";"f5";20
+198;"Fischer Robert J (USA)";"Black";"g6";2
+198;"Fischer Robert J (USA)";"Black";"Bg7";4
+198;"Fischer Robert J (USA)";"Black";"Nf6";6
+198;"Fischer Robert J (USA)";"Black";"O-O";8
+198;"Fischer Robert J (USA)";"Black";"c6";10
+198;"Fischer Robert J (USA)";"Black";"d5";12
+198;"Fischer Robert J (USA)";"Black";"cxd5";14
+198;"Fischer Robert J (USA)";"Black";"Ne4";16
+198;"Fischer Robert J (USA)";"Black";"Nc6";18
+198;"Fischer Robert J (USA)";"Black";"Na5";20
+199;"Fischer Robert J (USA)";"Black";"c5";2
+199;"Fischer Robert J (USA)";"Black";"d6";4
+199;"Fischer Robert J (USA)";"Black";"e5";6
+199;"Fischer Robert J (USA)";"Black";"Be7";8
+199;"Fischer Robert J (USA)";"Black";"Nf6";10
+199;"Fischer Robert J (USA)";"Black";"Nc6";12
+199;"Fischer Robert J (USA)";"Black";"O-O";14
+199;"Fischer Robert J (USA)";"Black";"a6";16
+199;"Fischer Robert J (USA)";"Black";"exf4";18
+199;"Fischer Robert J (USA)";"Black";"Be6";20
+200;"Fischer Robert J (USA)";"Black";"Nf6";2
+200;"Fischer Robert J (USA)";"Black";"g6";4
+200;"Fischer Robert J (USA)";"Black";"Bg7";6
+200;"Fischer Robert J (USA)";"Black";"O-O";8
+200;"Fischer Robert J (USA)";"Black";"d6";10
+200;"Fischer Robert J (USA)";"Black";"h6";12
+200;"Fischer Robert J (USA)";"Black";"c5";14
+200;"Fischer Robert J (USA)";"Black";"e6";16
+200;"Fischer Robert J (USA)";"Black";"exd5";18
+200;"Fischer Robert J (USA)";"Black";"Kh7";20
+201;"Fischer Robert J (USA)";"Black";"Nf6";2
+201;"Fischer Robert J (USA)";"Black";"g6";4
+201;"Fischer Robert J (USA)";"Black";"Bg7";6
+201;"Fischer Robert J (USA)";"Black";"O-O";8
+201;"Fischer Robert J (USA)";"Black";"c6";10
+201;"Fischer Robert J (USA)";"Black";"d5";12
+201;"Fischer Robert J (USA)";"Black";"cxd5";14
+201;"Fischer Robert J (USA)";"Black";"Bf5";16
+201;"Fischer Robert J (USA)";"Black";"Ne4";18
+201;"Fischer Robert J (USA)";"Black";"Nxc3";20
+202;"Fischer Robert J (USA)";"Black";"Nf6";2
+202;"Fischer Robert J (USA)";"Black";"e6";4
+202;"Fischer Robert J (USA)";"Black";"c5";6
+202;"Fischer Robert J (USA)";"Black";"exd5";8
+202;"Fischer Robert J (USA)";"Black";"d6";10
+202;"Fischer Robert J (USA)";"Black";"g6";12
+202;"Fischer Robert J (USA)";"Black";"Bg7";14
+202;"Fischer Robert J (USA)";"Black";"O-O";16
+202;"Fischer Robert J (USA)";"Black";"Re8";18
+202;"Fischer Robert J (USA)";"Black";"Nbd7";20
+203;"Fischer Robert J (USA)";"Black";"c5";2
+203;"Fischer Robert J (USA)";"Black";"d6";4
+203;"Fischer Robert J (USA)";"Black";"a6";6
+203;"Fischer Robert J (USA)";"Black";"Nc6";8
+203;"Fischer Robert J (USA)";"Black";"Bg4";10
+203;"Fischer Robert J (USA)";"Black";"Bxf3";12
+203;"Fischer Robert J (USA)";"Black";"g6";14
+203;"Fischer Robert J (USA)";"Black";"Bg7";16
+203;"Fischer Robert J (USA)";"Black";"e6";18
+203;"Fischer Robert J (USA)";"Black";"Nge7";20
+204;"Fischer Robert J (USA)";"Black";"Nf6";2
+204;"Fischer Robert J (USA)";"Black";"c5";4
+204;"Fischer Robert J (USA)";"Black";"e6";6
+204;"Fischer Robert J (USA)";"Black";"exd5";8
+204;"Fischer Robert J (USA)";"Black";"d6";10
+204;"Fischer Robert J (USA)";"Black";"g6";12
+204;"Fischer Robert J (USA)";"Black";"a6";14
+204;"Fischer Robert J (USA)";"Black";"Bg7";16
+204;"Fischer Robert J (USA)";"Black";"O-O";18
+204;"Fischer Robert J (USA)";"Black";"Bg4";20
+205;"Fischer Robert J (USA)";"Black";"Nf6";2
+205;"Fischer Robert J (USA)";"Black";"Nd5";4
+205;"Fischer Robert J (USA)";"Black";"d6";6
+205;"Fischer Robert J (USA)";"Black";"Nb6";8
+205;"Fischer Robert J (USA)";"Black";"Bf5";10
+205;"Fischer Robert J (USA)";"Black";"e6";12
+205;"Fischer Robert J (USA)";"Black";"Be7";14
+205;"Fischer Robert J (USA)";"Black";"O-O";16
+205;"Fischer Robert J (USA)";"Black";"cxd6";18
+205;"Fischer Robert J (USA)";"Black";"d5";20
+206;"Fischer Robert J (USA)";"Black";"Nf6";2
+206;"Fischer Robert J (USA)";"Black";"Nd5";4
+206;"Fischer Robert J (USA)";"Black";"d6";6
+206;"Fischer Robert J (USA)";"Black";"g6";8
+206;"Fischer Robert J (USA)";"Black";"Bg7";10
+206;"Fischer Robert J (USA)";"Black";"Nb6";12
+206;"Fischer Robert J (USA)";"Black";"cxd6";14
+206;"Fischer Robert J (USA)";"Black";"O-O";16
+206;"Fischer Robert J (USA)";"Black";"Nc6";18
+206;"Fischer Robert J (USA)";"Black";"Bg4";20
+208;"Fischer Robert J (USA)";"Black";"Nf6";2
+208;"Fischer Robert J (USA)";"Black";"g6";4
+208;"Fischer Robert J (USA)";"Black";"Bg7";6
+208;"Fischer Robert J (USA)";"Black";"d6";8
+208;"Fischer Robert J (USA)";"Black";"O-O";10
+208;"Fischer Robert J (USA)";"Black";"b6";12
+208;"Fischer Robert J (USA)";"Black";"Bb7";14
+208;"Fischer Robert J (USA)";"Black";"c5";16
+208;"Fischer Robert J (USA)";"Black";"e6";18
+208;"Fischer Robert J (USA)";"Black";"exd5";20
+209;"Fischer Robert J (USA)";"Black";"Nf6";2
+209;"Fischer Robert J (USA)";"Black";"g6";4
+209;"Fischer Robert J (USA)";"Black";"Bg7";6
+209;"Fischer Robert J (USA)";"Black";"d6";8
+209;"Fischer Robert J (USA)";"Black";"O-O";10
+209;"Fischer Robert J (USA)";"Black";"e5";12
+209;"Fischer Robert J (USA)";"Black";"Nbd7";14
+209;"Fischer Robert J (USA)";"Black";"Nc5";16
+209;"Fischer Robert J (USA)";"Black";"a5";18
+209;"Fischer Robert J (USA)";"Black";"h6";20
+210;"Fischer Robert J (USA)";"Black";"Nf6";2
+210;"Fischer Robert J (USA)";"Black";"g6";4
+210;"Fischer Robert J (USA)";"Black";"d5";6
+210;"Fischer Robert J (USA)";"Black";"Nxd5";8
+210;"Fischer Robert J (USA)";"Black";"Nxc3";10
+210;"Fischer Robert J (USA)";"Black";"Bg7";12
+210;"Fischer Robert J (USA)";"Black";"c5";14
+210;"Fischer Robert J (USA)";"Black";"Nc6";16
+210;"Fischer Robert J (USA)";"Black";"O-O";18
+210;"Fischer Robert J (USA)";"Black";"Qc7";20
+214;"Fischer Robert J (USA)";"Black";"e5";2
+214;"Fischer Robert J (USA)";"Black";"Nc6";4
+214;"Fischer Robert J (USA)";"Black";"f5";6
+214;"Fischer Robert J (USA)";"Black";"Nf6";8
+214;"Fischer Robert J (USA)";"Black";"Bc5";10
+214;"Fischer Robert J (USA)";"Black";"f4";12
+214;"Fischer Robert J (USA)";"Black";"O-O";14
+214;"Fischer Robert J (USA)";"Black";"Qe8";16
+214;"Fischer Robert J (USA)";"Black";"d6";18
+214;"Fischer Robert J (USA)";"Black";"Bd4";20
+221;"Fischer Robert J (USA)";"Black";"Nf6";2
+221;"Fischer Robert J (USA)";"Black";"Nd5";4
+221;"Fischer Robert J (USA)";"Black";"d6";6
+221;"Fischer Robert J (USA)";"Black";"g6";8
+221;"Fischer Robert J (USA)";"Black";"Bg7";10
+221;"Fischer Robert J (USA)";"Black";"Nb6";12
+221;"Fischer Robert J (USA)";"Black";"cxd6";14
+221;"Fischer Robert J (USA)";"Black";"O-O";16
+221;"Fischer Robert J (USA)";"Black";"Nc6";18
+221;"Fischer Robert J (USA)";"Black";"Bg4";20

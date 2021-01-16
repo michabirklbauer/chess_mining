@@ -5,7 +5,7 @@ moves <- df["move"]
 
 board_w <- get_board_matrix(moves, color = "White")
 
-p_1 <- visualize_heatmap(board_w, title = "Chess Tile Heatmap - White")
+p_1 <- visualize_heatmap(board_w, title = "Chess Tile Heatmap - Dorian: White")
 p_1
 
 df <- read.csv2("df_black.csv")
@@ -13,12 +13,12 @@ moves <- df["move"]
 
 board_b <- get_board_matrix(moves, color = "Black")
 
-p_2 <- visualize_heatmap(board_b, title = "Chess Tile Heatmap - Black",
+p_2 <- visualize_heatmap(board_b, title = "Chess Tile Heatmap - Dorian: Black",
                          high = "firebrick3")
 p_2
 
 board <- board_b + board_w
 
-p_3 <- visualize_heatmap(board, title = "Chess Tile Heatmap - Both Colours",
+p_3 <- visualize_heatmap(board, title = "Chess Tile Heatmap - Dorian: Both Colours",
                          high = "black")
 p_3
