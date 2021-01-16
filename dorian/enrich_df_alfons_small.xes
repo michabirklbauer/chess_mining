@@ -1,0 +1,1542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  XES version 1849.2016 (IEEE 1849-2016)  -->
+<!--  Created by Fluxicon Disco (fluxicon.com/disco)  -->
+<!--  (c) 2021 by Fluxicon BV, Bomanshof 259, 5611 NS Eindhoven, The Netherlands  -->
+<log xes.version="1849.2016" xmlns="http://www.xes-standard.org" xes.creator="Fluxicon Disco">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext"/>
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext"/>
+	<global scope="trace">
+		<string key="concept:name" value="name"/>
+		<string key="variant" value="string"/>
+		<int key="variant-index" value="0"/>
+	</global>
+	<global scope="event">
+		<string key="concept:name" value="name"/>
+		<string key="lifecycle:transition" value="transition"/>
+		<date key="time:timestamp" value="2021-01-16T15:27:56.217+01:00"/>
+		<string key="move" value="string"/>
+	</global>
+	<classifier name="Activity" keys="move"/>
+	<string key="lifecycle:model" value="standard"/>
+	<string key="creator" value="Fluxicon Disco"/>
+	<string key="library" value="Fluxicon Octane"/>
+	<trace>
+		<string key="concept:name" value="1"/>
+		<string key="variant" value="Variant 2"/>
+		<int key="variant-index" value="2"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-02T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-03T00:00:00.000+01:00"/>
+			<string key="move" value="c5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-04T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-05T00:00:00.000+01:00"/>
+			<string key="move" value="Nc6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-06T00:00:00.000+01:00"/>
+			<string key="move" value="Nc3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-07T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-08T00:00:00.000+01:00"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-09T00:00:00.000+01:00"/>
+			<string key="move" value="Nf6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Ng5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-10T00:00:00.000+01:00"/>
+			<string key="move" value="Ng5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Be7"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-11T00:00:00.000+01:00"/>
+			<string key="move" value="Be7"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2"/>
+		<string key="variant" value="Variant 3"/>
+		<int key="variant-index" value="3"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-12T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-13T00:00:00.000+01:00"/>
+			<string key="move" value="c6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-14T00:00:00.000+01:00"/>
+			<string key="move" value="d4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-15T00:00:00.000+01:00"/>
+			<string key="move" value="d5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-16T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bf5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-17T00:00:00.000+01:00"/>
+			<string key="move" value="Bf5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="g4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-18T00:00:00.000+01:00"/>
+			<string key="move" value="g4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qa5+"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-19T00:00:00.000+01:00"/>
+			<string key="move" value="Qa5+"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-20T00:00:00.000+01:00"/>
+			<string key="move" value="c3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Be4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-21T00:00:00.000+01:00"/>
+			<string key="move" value="Be4"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="3"/>
+		<string key="variant" value="Variant 4"/>
+		<int key="variant-index" value="4"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-22T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-23T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-24T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-25T00:00:00.000+01:00"/>
+			<string key="move" value="Nc6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-26T00:00:00.000+01:00"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-27T00:00:00.000+01:00"/>
+			<string key="move" value="Bc5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Ng5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-28T00:00:00.000+01:00"/>
+			<string key="move" value="Ng5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qxg5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-29T00:00:00.000+01:00"/>
+			<string key="move" value="Qxg5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-30T00:00:00.000+01:00"/>
+			<string key="move" value="d4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bxd4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-31T00:00:00.000+01:00"/>
+			<string key="move" value="Bxd4"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="4"/>
+		<string key="variant" value="Variant 5"/>
+		<int key="variant-index" value="5"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-01T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-02T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-03T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-04T00:00:00.000+01:00"/>
+			<string key="move" value="Nf6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-05T00:00:00.000+01:00"/>
+			<string key="move" value="Nc3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bb4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-06T00:00:00.000+01:00"/>
+			<string key="move" value="Bb4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-07T00:00:00.000+01:00"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="O-O"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-08T00:00:00.000+01:00"/>
+			<string key="move" value="O-O"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-09T00:00:00.000+01:00"/>
+			<string key="move" value="d3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-10T00:00:00.000+01:00"/>
+			<string key="move" value="Nc6"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="5"/>
+		<string key="variant" value="Variant 6"/>
+		<int key="variant-index" value="6"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-11T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-12T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-13T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-14T00:00:00.000+01:00"/>
+			<string key="move" value="Nc6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bb5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-15T00:00:00.000+01:00"/>
+			<string key="move" value="Bb5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-16T00:00:00.000+01:00"/>
+			<string key="move" value="Nf6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="O-O"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-17T00:00:00.000+01:00"/>
+			<string key="move" value="O-O"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nxe4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-18T00:00:00.000+01:00"/>
+			<string key="move" value="Nxe4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-19T00:00:00.000+01:00"/>
+			<string key="move" value="d3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-20T00:00:00.000+01:00"/>
+			<string key="move" value="Nf6"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="7"/>
+		<string key="variant" value="Variant 7"/>
+		<int key="variant-index" value="7"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-21T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-22T00:00:00.000+01:00"/>
+			<string key="move" value="c6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-23T00:00:00.000+01:00"/>
+			<string key="move" value="d4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-24T00:00:00.000+01:00"/>
+			<string key="move" value="d5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-25T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bf5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-26T00:00:00.000+01:00"/>
+			<string key="move" value="Bf5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="f4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-27T00:00:00.000+01:00"/>
+			<string key="move" value="f4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-02-28T00:00:00.000+01:00"/>
+			<string key="move" value="e6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-01T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-02T00:00:00.000+01:00"/>
+			<string key="move" value="c5"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="8"/>
+		<string key="variant" value="Variant 8"/>
+		<int key="variant-index" value="8"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-03T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-04T00:00:00.000+01:00"/>
+			<string key="move" value="d6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-05T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-06T00:00:00.000+01:00"/>
+			<string key="move" value="Nf6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-07T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="dxe5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-08T00:00:00.000+01:00"/>
+			<string key="move" value="dxe5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nxe5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-09T00:00:00.000+01:00"/>
+			<string key="move" value="Nxe5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="g6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-10T00:00:00.000+01:00"/>
+			<string key="move" value="g6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-11T00:00:00.000+01:00"/>
+			<string key="move" value="c4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bg7"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-12T00:00:00.000+01:00"/>
+			<string key="move" value="Bg7"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="9"/>
+		<string key="variant" value="Variant 9"/>
+		<int key="variant-index" value="9"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-13T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-14T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-15T00:00:00.000+01:00"/>
+			<string key="move" value="Nc3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-16T00:00:00.000+01:00"/>
+			<string key="move" value="Nf6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-17T00:00:00.000+01:00"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-18T00:00:00.000+01:00"/>
+			<string key="move" value="d6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-19T00:00:00.000+01:00"/>
+			<string key="move" value="d3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-20T00:00:00.000+01:00"/>
+			<string key="move" value="Nc6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-21T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bg4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-22T00:00:00.000+01:00"/>
+			<string key="move" value="Bg4"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="11"/>
+		<string key="variant" value="Variant 10"/>
+		<int key="variant-index" value="10"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-23T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-24T00:00:00.000+01:00"/>
+			<string key="move" value="c6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-25T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-26T00:00:00.000+01:00"/>
+			<string key="move" value="d5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="exd5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-27T00:00:00.000+01:00"/>
+			<string key="move" value="exd5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="cxd5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-28T00:00:00.000+01:00"/>
+			<string key="move" value="cxd5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-29T00:00:00.000+01:00"/>
+			<string key="move" value="Nc3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-30T00:00:00.000+01:00"/>
+			<string key="move" value="Nc6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-03-31T00:00:00.000+01:00"/>
+			<string key="move" value="d4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qb6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-01T00:00:00.000+01:00"/>
+			<string key="move" value="Qb6"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="12"/>
+		<string key="variant" value="Variant 1"/>
+		<int key="variant-index" value="1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-02T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-03T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-04T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-05T00:00:00.000+01:00"/>
+			<string key="move" value="Nc6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-06T00:00:00.000+01:00"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-07T00:00:00.000+01:00"/>
+			<string key="move" value="Bc5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="O-O"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-08T00:00:00.000+01:00"/>
+			<string key="move" value="O-O"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-09T00:00:00.000+01:00"/>
+			<string key="move" value="Nf6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-10T00:00:00.000+01:00"/>
+			<string key="move" value="d3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="O-O"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-11T00:00:00.000+01:00"/>
+			<string key="move" value="O-O"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="13"/>
+		<string key="variant" value="Variant 11"/>
+		<int key="variant-index" value="11"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-12T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-13T00:00:00.000+01:00"/>
+			<string key="move" value="c6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-14T00:00:00.000+01:00"/>
+			<string key="move" value="d4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-15T00:00:00.000+01:00"/>
+			<string key="move" value="d5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-16T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bf5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-17T00:00:00.000+01:00"/>
+			<string key="move" value="Bf5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bd3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-18T00:00:00.000+01:00"/>
+			<string key="move" value="Bd3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bxd3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-19T00:00:00.000+01:00"/>
+			<string key="move" value="Bxd3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qxd3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-20T00:00:00.000+01:00"/>
+			<string key="move" value="Qxd3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nd7"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-21T00:00:00.000+01:00"/>
+			<string key="move" value="Nd7"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="14"/>
+		<string key="variant" value="Variant 12"/>
+		<int key="variant-index" value="12"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-22T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-23T00:00:00.000+01:00"/>
+			<string key="move" value="c6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-24T00:00:00.000+01:00"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-25T00:00:00.000+01:00"/>
+			<string key="move" value="d5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bb3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-26T00:00:00.000+01:00"/>
+			<string key="move" value="Bb3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-27T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-28T00:00:00.000+01:00"/>
+			<string key="move" value="d3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="dxe4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-29T00:00:00.000+01:00"/>
+			<string key="move" value="dxe4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qh5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-04-30T00:00:00.000+01:00"/>
+			<string key="move" value="Qh5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="g6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-01T00:00:00.000+01:00"/>
+			<string key="move" value="g6"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="15"/>
+		<string key="variant" value="Variant 13"/>
+		<int key="variant-index" value="13"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-02T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-03T00:00:00.000+01:00"/>
+			<string key="move" value="c5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-04T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-05T00:00:00.000+01:00"/>
+			<string key="move" value="d6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-06T00:00:00.000+01:00"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nd7"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-07T00:00:00.000+01:00"/>
+			<string key="move" value="Nd7"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-08T00:00:00.000+01:00"/>
+			<string key="move" value="d4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Ngf6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-09T00:00:00.000+01:00"/>
+			<string key="move" value="Ngf6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Ng5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-10T00:00:00.000+01:00"/>
+			<string key="move" value="Ng5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-11T00:00:00.000+01:00"/>
+			<string key="move" value="e6"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="16"/>
+		<string key="variant" value="Variant 1"/>
+		<int key="variant-index" value="1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-12T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-13T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-14T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-15T00:00:00.000+01:00"/>
+			<string key="move" value="Nc6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-16T00:00:00.000+01:00"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-17T00:00:00.000+01:00"/>
+			<string key="move" value="Bc5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="O-O"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-18T00:00:00.000+01:00"/>
+			<string key="move" value="O-O"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-19T00:00:00.000+01:00"/>
+			<string key="move" value="Nf6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-20T00:00:00.000+01:00"/>
+			<string key="move" value="d3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="O-O"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-21T00:00:00.000+01:00"/>
+			<string key="move" value="O-O"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="17"/>
+		<string key="variant" value="Variant 14"/>
+		<int key="variant-index" value="14"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-22T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-23T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-24T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-25T00:00:00.000+01:00"/>
+			<string key="move" value="Nc6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-26T00:00:00.000+01:00"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-27T00:00:00.000+01:00"/>
+			<string key="move" value="Nf6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-28T00:00:00.000+01:00"/>
+			<string key="move" value="d3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-29T00:00:00.000+01:00"/>
+			<string key="move" value="Bc5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="O-O"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-30T00:00:00.000+01:00"/>
+			<string key="move" value="O-O"/>
+		</event>
+		<event>
+			<string key="concept:name" value="O-O"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-05-31T00:00:00.000+01:00"/>
+			<string key="move" value="O-O"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="18"/>
+		<string key="variant" value="Variant 15"/>
+		<int key="variant-index" value="15"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-01T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-02T00:00:00.000+01:00"/>
+			<string key="move" value="c6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-03T00:00:00.000+01:00"/>
+			<string key="move" value="d4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-04T00:00:00.000+01:00"/>
+			<string key="move" value="d5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-05T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bf5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-06T00:00:00.000+01:00"/>
+			<string key="move" value="Bf5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-07T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-08T00:00:00.000+01:00"/>
+			<string key="move" value="e6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-09T00:00:00.000+01:00"/>
+			<string key="move" value="c3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Ne7"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-10T00:00:00.000+01:00"/>
+			<string key="move" value="Ne7"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="19"/>
+		<string key="variant" value="Variant 16"/>
+		<int key="variant-index" value="16"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-11T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-12T00:00:00.000+01:00"/>
+			<string key="move" value="Nf6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-13T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nxe4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-14T00:00:00.000+01:00"/>
+			<string key="move" value="Nxe4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-15T00:00:00.000+01:00"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-16T00:00:00.000+01:00"/>
+			<string key="move" value="e6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-17T00:00:00.000+01:00"/>
+			<string key="move" value="Nc3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nxc3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-18T00:00:00.000+01:00"/>
+			<string key="move" value="Nxc3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="bxc3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-19T00:00:00.000+01:00"/>
+			<string key="move" value="bxc3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-20T00:00:00.000+01:00"/>
+			<string key="move" value="d5"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="20"/>
+		<string key="variant" value="Variant 17"/>
+		<int key="variant-index" value="17"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-21T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-22T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-23T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-24T00:00:00.000+01:00"/>
+			<string key="move" value="Nc6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-25T00:00:00.000+01:00"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="f6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-26T00:00:00.000+01:00"/>
+			<string key="move" value="f6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-27T00:00:00.000+01:00"/>
+			<string key="move" value="d3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bb4+"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-28T00:00:00.000+01:00"/>
+			<string key="move" value="Bb4+"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-29T00:00:00.000+01:00"/>
+			<string key="move" value="c3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-06-30T00:00:00.000+01:00"/>
+			<string key="move" value="Bc5"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="24"/>
+		<string key="variant" value="Variant 18"/>
+		<int key="variant-index" value="18"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-01T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-02T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-03T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-04T00:00:00.000+01:00"/>
+			<string key="move" value="Nc6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-05T00:00:00.000+01:00"/>
+			<string key="move" value="c3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-06T00:00:00.000+01:00"/>
+			<string key="move" value="Nf6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-07T00:00:00.000+01:00"/>
+			<string key="move" value="d3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-08T00:00:00.000+01:00"/>
+			<string key="move" value="Bc5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bg5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-09T00:00:00.000+01:00"/>
+			<string key="move" value="Bg5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="O-O"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-10T00:00:00.000+01:00"/>
+			<string key="move" value="O-O"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="25"/>
+		<string key="variant" value="Variant 19"/>
+		<int key="variant-index" value="19"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-11T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-12T00:00:00.000+01:00"/>
+			<string key="move" value="c6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-13T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-14T00:00:00.000+01:00"/>
+			<string key="move" value="d5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-15T00:00:00.000+01:00"/>
+			<string key="move" value="d4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bg4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-16T00:00:00.000+01:00"/>
+			<string key="move" value="Bg4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Be2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-17T00:00:00.000+01:00"/>
+			<string key="move" value="Be2"/>
+		</event>
+		<event>
+			<string key="concept:name" value="dxe4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-18T00:00:00.000+01:00"/>
+			<string key="move" value="dxe4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Ne5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-19T00:00:00.000+01:00"/>
+			<string key="move" value="Ne5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bxe2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-20T00:00:00.000+01:00"/>
+			<string key="move" value="Bxe2"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="26"/>
+		<string key="variant" value="Variant 20"/>
+		<int key="variant-index" value="20"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-21T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-22T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-23T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-24T00:00:00.000+01:00"/>
+			<string key="move" value="Nc6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-25T00:00:00.000+01:00"/>
+			<string key="move" value="c3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-26T00:00:00.000+01:00"/>
+			<string key="move" value="d6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qa4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-27T00:00:00.000+01:00"/>
+			<string key="move" value="Qa4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bg4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-28T00:00:00.000+01:00"/>
+			<string key="move" value="Bg4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bb5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-29T00:00:00.000+01:00"/>
+			<string key="move" value="Bb5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qd7"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-30T00:00:00.000+01:00"/>
+			<string key="move" value="Qd7"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="27"/>
+		<string key="variant" value="Variant 21"/>
+		<int key="variant-index" value="21"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-07-31T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-01T00:00:00.000+01:00"/>
+			<string key="move" value="c6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-02T00:00:00.000+01:00"/>
+			<string key="move" value="c4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-03T00:00:00.000+01:00"/>
+			<string key="move" value="d5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-04T00:00:00.000+01:00"/>
+			<string key="move" value="c5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="g6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-05T00:00:00.000+01:00"/>
+			<string key="move" value="g6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-06T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bf5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-07T00:00:00.000+01:00"/>
+			<string key="move" value="Bf5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-08T00:00:00.000+01:00"/>
+			<string key="move" value="d4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-09T00:00:00.000+01:00"/>
+			<string key="move" value="e6"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="28"/>
+		<string key="variant" value="Variant 22"/>
+		<int key="variant-index" value="22"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-10T00:00:00.000+01:00"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-11T00:00:00.000+01:00"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-12T00:00:00.000+01:00"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-13T00:00:00.000+01:00"/>
+			<string key="move" value="d6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-14T00:00:00.000+01:00"/>
+			<string key="move" value="c3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bg4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-15T00:00:00.000+01:00"/>
+			<string key="move" value="Bg4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qa4+"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-16T00:00:00.000+01:00"/>
+			<string key="move" value="Qa4+"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-17T00:00:00.000+01:00"/>
+			<string key="move" value="Nc6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bb5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-18T00:00:00.000+01:00"/>
+			<string key="move" value="Bb5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qd7"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-08-19T00:00:00.000+01:00"/>
+			<string key="move" value="Qd7"/>
+		</event>
+	</trace>
+</log>

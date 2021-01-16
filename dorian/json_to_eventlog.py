@@ -43,6 +43,6 @@ def json_to_eventlog(file_path):
     return df
 
 if __name__ == "__main__":
-    #json_to_eventlog("chess_com_games_2020-12-15_2020-12-08.json")
+    json_to_eventlog(r"dorian\chess_com_games_2020-12-15_2020-12-08.json")
     #json_to_eventlog("C54.json")
-    json_to_eventlog("B10.json")
+    #json_to_eventlog("B10.json")
