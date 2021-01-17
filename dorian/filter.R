@@ -69,7 +69,7 @@ dates = 1:dim(clean_df)[1]
 class(dates) = "Date"
 clean_df = clean_df %>% ungroup() %>%  arrange(game, turn) %>% mutate(date = dates)
 
-#write.csv2(clean_df, file = "enrich_df.csv", row.names = F)
+write.csv2(clean_df, file = "enrich_df.csv", row.names = F)
 
 
 

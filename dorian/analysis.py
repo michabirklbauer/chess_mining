@@ -18,12 +18,12 @@ results = {}
 
 filename = None
 #filename = "result_am.json"
-#filename = "result_im.json"
+filename = "result_im.json"
 #filename = "result_hm.json"
 
 net = initial_marking = final_marking = None
 #net, initial_marking, final_marking = alpha_miner.apply(log)
-#net, initial_marking, final_marking = inductive_miner.apply(log)
+net, initial_marking, final_marking = inductive_miner.apply(log)
 #net, initial_marking, final_marking = heuristics_miner.apply(log, parameters={heuristics_miner.Variants.CLASSIC.value.Parameters.DEPENDENCY_THRESH: 0.99})
 
 if (net and initial_marking and final_marking) is None: 
@@ -77,3 +77,9 @@ results['3-log_alfons_italian_small-alignment_based'] = fitness_eval_ALIGNMENT_B
 import json
 with open(filename, 'w') as fp:
     json.dump(results, fp)
+
+
+###############################################################################
+
+
+
