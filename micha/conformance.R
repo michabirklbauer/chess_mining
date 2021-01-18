@@ -1,5 +1,7 @@
 ## Setup
 
+# install.packages("tidyverse")
+# install.packages("wesanderson")
 # install.packages("bupaR")
 # install.packages("edeaR")
 # install.packages("eventdataR")
@@ -176,3 +178,32 @@ evaluation_all(alfons2357_b,
 # 
 # $fscore
 # [1] 0.9896083
+
+## Visualization
+
+library(tidyverse)
+library(wesanderson)
+
+white <- data.frame(stat = c("fitness", "precision", "generalization", "simplicity"),
+                    value = c(0.9804688, 1, 0.1073271, 0.3604651))
+
+black <- data.frame(stat = c("fitness", "precision", "generalization", "simplicity"),
+                    value = c(0.9794304, 1, 0.1123103, 0.3630573))
+
+clr <- wes_palette("Chevalier1")
+
+ggplot(white, aes(x=stat, y=value)) + 
+  geom_bar(stat="identity", color="black", fill="white", width = 0.7) + 
+  ggtitle("Conformance Measures: White") + 
+  xlab("Quality Criteria") + 
+  ylab("Value") + 
+  geom_text(aes(label=value), vjust=-0.3, size=3.0) + theme_minimal() + 
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+ggplot(black, aes(x=stat, y=value)) + 
+  geom_bar(stat="identity", color="black", fill="black", width = 0.7) + 
+  ggtitle("Conformance Measures: Black") + 
+  xlab("Quality Criteria") + 
+  ylab("Value") + 
+  geom_text(aes(label=value), vjust=-0.3, size=3.0) + theme_minimal() + 
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
