@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  XES version 1849.2016 (IEEE 1849-2016)  -->
+<!--  Created by Fluxicon Disco (fluxicon.com/disco)  -->
+<!--  (c) 2021 by Fluxicon BV, Bomanshof 259, 5611 NS Eindhoven, The Netherlands  -->
+<log xes.version="1849.2016" xmlns="http://www.xes-standard.org" xes.creator="Fluxicon Disco">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext"/>
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext"/>
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext"/>
+	<global scope="trace">
+		<string key="concept:name" value="name"/>
+		<string key="variant" value="string"/>
+		<int key="variant-index" value="0"/>
+	</global>
+	<global scope="event">
+		<string key="concept:name" value="name"/>
+		<string key="lifecycle:transition" value="transition"/>
+		<string key="org:resource" value="resource"/>
+		<date key="time:timestamp" value="2021-01-16T15:08:28.167+01:00"/>
+		<string key="color" value="string"/>
+		<string key="move" value="string"/>
+	</global>
+	<classifier name="Activity" keys="move"/>
+	<classifier name="Resource" keys="color"/>
+	<string key="lifecycle:model" value="standard"/>
+	<string key="creator" value="Fluxicon Disco"/>
+	<string key="library" value="Fluxicon Octane"/>
+	<trace>
+		<string key="concept:name" value="1"/>
+		<string key="variant" value="Variant 1"/>
+		<int key="variant-index" value="1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:01.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:03.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:05.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nc3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:07.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Ng5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:09.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Ng5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="O-O"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:11.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="O-O"/>
+		</event>
+		<event>
+			<string key="concept:name" value="exd5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:13.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="exd5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nxd5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:15.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nxd5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qh5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:17.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Qh5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nxf6+"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:19.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nxf6+"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="3"/>
+		<string key="variant" value="Variant 2"/>
+		<int key="variant-index" value="2"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:01.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:03.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:05.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Ng5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:07.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Ng5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:09.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="d4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bxg5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:11.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bxg5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nd2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:13.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nd2"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qxa1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:15.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Qxa1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qc3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:17.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Qc3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qb4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:19.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Qb4"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="4"/>
+		<string key="variant" value="Variant 3"/>
+		<int key="variant-index" value="3"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:01.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:03.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:05.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nc3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:07.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:09.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="d3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bd2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:11.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bd2"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bxc3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:13.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bxc3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nxe5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:15.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nxe5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bxe5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:17.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bxe5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:19.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Qf3"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="5"/>
+		<string key="variant" value="Variant 4"/>
+		<int key="variant-index" value="4"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:01.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:03.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bb5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:05.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bb5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="O-O"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:07.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="O-O"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:09.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="d3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bg5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:11.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bg5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nbd2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:13.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nbd2"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Ne4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:15.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Ne4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nxf6+"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:17.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nxf6+"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Re1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:19.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Re1"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="8"/>
+		<string key="variant" value="Variant 5"/>
+		<int key="variant-index" value="5"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:01.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:03.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:05.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nxe5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:07.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nxe5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:09.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="c4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:11.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nc3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:13.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="d4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nxc6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:15.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nxc6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Be3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:17.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Be3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qd2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:19.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Qd2"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="9"/>
+		<string key="variant" value="Variant 6"/>
+		<int key="variant-index" value="6"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:01.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:03.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nc3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:05.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:07.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="d3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:09.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Be3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:11.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Be3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qd2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:13.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Qd2"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:15.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="d4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bxd4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:17.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bxd4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nxd4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:19.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nxd4"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="12"/>
+		<string key="variant" value="Variant 7"/>
+		<int key="variant-index" value="7"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:01.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:03.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:05.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="O-O"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:07.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="O-O"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:09.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="d3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Re1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:11.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Re1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Be3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:13.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Be3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Rxe3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:15.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Rxe3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Re2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:17.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Re2"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nxd4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:19.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nxd4"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="15"/>
+		<string key="variant" value="Variant 8"/>
+		<int key="variant-index" value="8"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:01.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:03.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:05.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:07.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="d4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Ng5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:09.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Ng5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="f4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:11.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="f4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nxf7"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:13.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nxf7"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:15.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="e5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:17.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="d5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="g3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:19.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="g3"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="16"/>
+		<string key="variant" value="Variant 9"/>
+		<int key="variant-index" value="9"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:01.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:03.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:05.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="O-O"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:07.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="O-O"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:09.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="d3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Re1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:11.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Re1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Be3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:13.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Be3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Rxe3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:15.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Rxe3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nbd2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:17.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nbd2"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qe1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:19.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Qe1"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="17"/>
+		<string key="variant" value="Variant 10"/>
+		<int key="variant-index" value="10"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:01.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:03.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:05.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:07.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="d3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="O-O"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:09.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="O-O"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Re1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:11.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Re1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Be3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:13.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Be3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Rxe3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:15.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Rxe3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="h3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:17.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="h3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Na3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:19.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Na3"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="19"/>
+		<string key="variant" value="Variant 11"/>
+		<int key="variant-index" value="11"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:01.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:03.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:05.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nc3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:07.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nc3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="bxc3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:09.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="bxc3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bb3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:11.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bb3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:13.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="d4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Ne5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:15.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Ne5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="O-O"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:17.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="O-O"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nxc6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:19.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nxc6"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="20"/>
+		<string key="variant" value="Variant 12"/>
+		<int key="variant-index" value="12"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:01.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:03.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bc4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:05.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bc4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:07.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="d3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:09.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="c3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="O-O"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:11.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="O-O"/>
+		</event>
+		<event>
+			<string key="concept:name" value="b4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:13.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="b4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Ba3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:15.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Ba3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="b5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:17.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="b5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nbd2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:19.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nbd2"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="24"/>
+		<string key="variant" value="Variant 13"/>
+		<int key="variant-index" value="13"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:01.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:03.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:05.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="c3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:07.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="d3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bg5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:09.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bg5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nbd2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:11.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nbd2"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nb3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:13.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nb3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nxc5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:15.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nxc5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Be2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:17.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Be2"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qb3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:19.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Qb3"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="26"/>
+		<string key="variant" value="Variant 14"/>
+		<int key="variant-index" value="14"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:01.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:03.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:05.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="c3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qa4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:07.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Qa4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bb5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:09.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bb5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:11.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="d4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:13.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="d5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="dxc6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:15.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="dxc6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="cxb7+"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:17.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="cxb7+"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="28"/>
+		<string key="variant" value="Variant 15"/>
+		<int key="variant-index" value="15"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="e4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:01.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="e4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Nf3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:03.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Nf3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:05.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="c3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qa4+"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:07.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Qa4+"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bb5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:09.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bb5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:11.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="d4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:13.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="d5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="dxc6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:15.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="dxc6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Bxc6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:17.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Bxc6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Qxc6+"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="White"/>
+			<date key="time:timestamp" value="1970-01-01T00:00:19.000+01:00"/>
+			<string key="color" value="White"/>
+			<string key="move" value="Qxc6+"/>
+		</event>
+	</trace>
+</log>
