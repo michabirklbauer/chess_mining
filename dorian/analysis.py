@@ -8,6 +8,8 @@ from pm4py.algo.discovery.heuristics import algorithm as heuristics_miner
 from pm4py.algo.conformance.tokenreplay import algorithm as token_replay
 from pm4py.evaluation.replay_fitness import evaluator as replay_fitness_evaluator
 from pm4py.visualization.petrinet import visualizer as pn_visualizer
+from pm4py.visualization.process_tree import visualizer as pt_visualizer
+from pm4py.visualization.heuristics_net import visualizer as hn_visualizer
 
 #%%
 # CONFIGURATION 
@@ -18,13 +20,22 @@ results = {}
 
 filename = None
 #filename = "result_am.json"
-filename = "result_im.json"
+#filename = "result_im.json"
 #filename = "result_hm.json"
 
 net = initial_marking = final_marking = None
+
 #net, initial_marking, final_marking = alpha_miner.apply(log)
-net, initial_marking, final_marking = inductive_miner.apply(log)
-#net, initial_marking, final_marking = heuristics_miner.apply(log, parameters={heuristics_miner.Variants.CLASSIC.value.Parameters.DEPENDENCY_THRESH: 0.99})
+
+# net, initial_marking, final_marking = inductive_miner.apply(log)
+# tree = inductive_miner.apply_tree(log)
+# gviz = pt_visualizer.apply(tree)
+# pt_visualizer.view(gviz)
+
+net, initial_marking, final_marking = heuristics_miner.apply(log, parameters={heuristics_miner.Variants.CLASSIC.value.Parameters.DEPENDENCY_THRESH: 0.99})
+heu_net = heuristics_miner.apply_heu(log, parameters={heuristics_miner.Variants.CLASSIC.value.Parameters.DEPENDENCY_THRESH: 0.99})
+gviz = hn_visualizer.apply(heu_net)
+hn_visualizer.view(gviz)
 
 if (net and initial_marking and final_marking) is None: 
     raise Exception("This is for your safety. Check configuration")
@@ -74,9 +85,10 @@ fitness_eval_ALIGNMENT_BASED = replay_fitness_evaluator.apply(
 results['3-log_alfons_italian_small-alignment_based'] = fitness_eval_ALIGNMENT_BASED
 
 #%%
-import json
-with open(filename, 'w') as fp:
-    json.dump(results, fp)
+# import json
+# with open(filename, 'w') as fp:
+#     json.dump(results, fp)
+
 
 
 ###############################################################################
