@@ -15,5 +15,5 @@ The goal is to compare openings - which we define as the first 10 turns - of dif
 
 ## Contributors
 
-* Micha Birklbauer [:octocat: t0xic-m](https://github.com/t0xic-m)
+* Micha Birklbauer [:octocat: michabirklbauer](https://github.com/michabirklbauer)
 * Dorian Karaban [:octocat: Dorian1000](https://github.com/dorian1000)
